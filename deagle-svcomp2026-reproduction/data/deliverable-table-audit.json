@@ -1,0 +1,46 @@
+{
+  "method": "Read-only CSV import with @oai/artifact-tool; comparison against complete JSON and independent group counts.",
+  "files": [
+    {
+      "file": "全部实际运行667.csv",
+      "rows": 667,
+      "columns": 36,
+      "unique_headers": true,
+      "matching_json": true,
+      "encoding": "UTF-8 with BOM"
+    },
+    {
+      "file": "异常任务611.csv",
+      "rows": 611,
+      "columns": 36,
+      "unique_headers": true,
+      "matching_json": true,
+      "encoding": "UTF-8 with BOM"
+    },
+    {
+      "file": "正常对照56.csv",
+      "rows": 56,
+      "columns": 36,
+      "unique_headers": true,
+      "matching_json": true,
+      "encoding": "UTF-8 with BOM"
+    },
+    {
+      "file": "官方全部实例3177.csv",
+      "rows": 3177,
+      "columns": 15,
+      "unique_headers": true,
+      "matching_json": false,
+      "encoding": "UTF-8 with BOM"
+    },
+    {
+      "file": "原因与家族耗时分布.csv",
+      "rows": 44,
+      "columns": 40,
+      "unique_headers": true,
+      "matching_json": false,
+      "encoding": "UTF-8 with BOM"
+    }
+  ],
+  "all_group_dimensions_total_611": true
+}

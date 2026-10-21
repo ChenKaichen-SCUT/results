@@ -1,0 +1,13 @@
+{
+  "release_tag": "deagle-svcomp2026-repro-20261021",
+  "archives": {
+    "evidence-and-results.tar.gz": {
+      "bytes": 134161569,
+      "sha256": "2a59e07e3435e3bcb12d929ba6e8b91f34fe017e38c9a7e1fd5d3c4680f837c0"
+    },
+    "runtime-and-sources.tar.gz": {
+      "bytes": 292260077,
+      "sha256": "efe806b9adc222ef5704e0452833899c8d26f1b33e59e597bd66323c6bc528da"
+    }
+  }
+}

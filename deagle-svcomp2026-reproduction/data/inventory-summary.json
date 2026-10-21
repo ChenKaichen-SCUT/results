@@ -1,0 +1,129 @@
+{
+  "all": 3177,
+  "invalid": 53,
+  "anomalies": {
+    "witness missing": 193,
+    "OUT OF MEMORY": 25,
+    "TIMEOUT": 35,
+    "ERROR": 248,
+    "UNKNOWN": 85,
+    "correct-unconfirmed": 19,
+    "wrong": 4,
+    "witness invalid": 2
+  },
+  "controls": 56,
+  "families": {
+    "pthread": 66,
+    "pthread-atomic": 11,
+    "pthread-ext": 53,
+    "pthread-lit": 10,
+    "ldv-races": 8,
+    "ldv-linux-3.14-races": 24,
+    "pthread-complex": 11,
+    "pthread-driver-races": 5,
+    "pthread-C-DAC": 10,
+    "pthread-divine": 18,
+    "pthread-nondet": 6,
+    "goblint-regression": 275,
+    "weaver": 18,
+    "pthread-deagle": 20,
+    "pthread-race-challenges": 16,
+    "libvsync": 52,
+    "pthread-theta": 5,
+    "pthread-memsafety": 3
+  },
+  "xml_metadata": [
+    {
+      "raw": "deagle.2025-12-15_04-40-59.results.SV-COMP26_no-data-race.C.no-data-race.Concurrency.xml",
+      "fixed": "deagle.2025-12-15_04-40-59.results.SV-COMP26_no-data-race.C.no-data-race.Concurrency.xml.bz2.fixed.xml",
+      "attributes": {
+        "benchmarkname": "deagle",
+        "date": "2025-12-15 04:40:59 CET",
+        "starttime": "2025-12-15T04:41:07.264799+01:00",
+        "tool": "Deagle",
+        "version": "4.1.0",
+        "toolmodule": "benchexec.tools.deagle",
+        "generator": "BenchExec 3.32",
+        "displayName": "Deagle",
+        "memlimit": "15000000000B",
+        "timelimit": "900s",
+        "cpuCores": "4",
+        "options": "",
+        "block": "C.no-data-race.Concurrency",
+        "name": "SV-COMP26_no-data-race.C.no-data-race.Concurrency",
+        "endtime": "2025-12-15T05:38:49.246374+01:00"
+      },
+      "raw_sha256": "34fe1e97fb2bbaa64866fdd08ab40068eaf23dc1b6549eb6e942550274fc3633",
+      "fixed_sha256": "78ff4d52d1b98a5fdeb1c8aab02ec094a1dd8f00e17fff984c1207b7cc4ac0ed"
+    },
+    {
+      "raw": "deagle.2025-12-15_04-40-59.results.SV-COMP26_no-overflow.C.no-overflow.Concurrency.xml",
+      "fixed": "deagle.2025-12-15_04-40-59.results.SV-COMP26_no-overflow.C.no-overflow.Concurrency.xml.bz2.fixed.xml",
+      "attributes": {
+        "benchmarkname": "deagle",
+        "date": "2025-12-15 04:40:59 CET",
+        "starttime": "2025-12-15T04:41:07.264799+01:00",
+        "tool": "Deagle",
+        "version": "4.1.0",
+        "toolmodule": "benchexec.tools.deagle",
+        "generator": "BenchExec 3.32",
+        "displayName": "Deagle",
+        "memlimit": "15000000000B",
+        "timelimit": "900s",
+        "cpuCores": "4",
+        "options": "",
+        "block": "C.no-overflow.Concurrency",
+        "name": "SV-COMP26_no-overflow.C.no-overflow.Concurrency",
+        "endtime": "2025-12-15T05:38:49.246374+01:00"
+      },
+      "raw_sha256": "63ecb5ee46cdcafa8d5f54bdb8df11078e4da6aabc22e2fa00c0e989619aad93",
+      "fixed_sha256": "62e5bdcdb0417d18cc1161743009079504a42481911a6e272bccee94c6282c1b"
+    },
+    {
+      "raw": "deagle.2025-12-15_04-40-59.results.SV-COMP26_unreach-call.C.unreach-call.Concurrency.xml",
+      "fixed": "deagle.2025-12-15_04-40-59.results.SV-COMP26_unreach-call.C.unreach-call.Concurrency.xml.bz2.fixed.xml",
+      "attributes": {
+        "benchmarkname": "deagle",
+        "date": "2025-12-15 04:40:59 CET",
+        "starttime": "2025-12-15T04:41:07.264799+01:00",
+        "tool": "Deagle",
+        "version": "4.1.0",
+        "toolmodule": "benchexec.tools.deagle",
+        "generator": "BenchExec 3.32",
+        "displayName": "Deagle",
+        "memlimit": "15000000000B",
+        "timelimit": "900s",
+        "cpuCores": "4",
+        "options": "",
+        "block": "C.unreach-call.Concurrency",
+        "name": "SV-COMP26_unreach-call.C.unreach-call.Concurrency",
+        "endtime": "2025-12-15T05:38:49.246374+01:00"
+      },
+      "raw_sha256": "3f3a1fbe0d00cf30fd45b62c8f7124f27f9986402ce1c25b12d2ea51ea1dbfc9",
+      "fixed_sha256": "8a2b11bdd5504878dc8c909f5e859c5c30cb434d788f2fa4b8d213e3571d20a0"
+    },
+    {
+      "raw": "deagle.2025-12-15_04-40-59.results.SV-COMP26_valid-memsafety.C.valid-memsafety.Concurrency.xml",
+      "fixed": "deagle.2025-12-15_04-40-59.results.SV-COMP26_valid-memsafety.C.valid-memsafety.Concurrency.xml.bz2.fixed.xml",
+      "attributes": {
+        "benchmarkname": "deagle",
+        "date": "2025-12-15 04:40:59 CET",
+        "starttime": "2025-12-15T04:41:07.264799+01:00",
+        "tool": "Deagle",
+        "version": "4.1.0",
+        "toolmodule": "benchexec.tools.deagle",
+        "generator": "BenchExec 3.32",
+        "displayName": "Deagle",
+        "memlimit": "15000000000B",
+        "timelimit": "900s",
+        "cpuCores": "4",
+        "options": "",
+        "block": "C.valid-memsafety.Concurrency",
+        "name": "SV-COMP26_valid-memsafety.C.valid-memsafety.Concurrency",
+        "endtime": "2025-12-15T05:38:49.246374+01:00"
+      },
+      "raw_sha256": "d13714a75ffa23dabcc21f13a444cf277c14fc23100af3cc30cb413c232350ea",
+      "fixed_sha256": "22aeb56127f7e908cf24fcb7b374d4ec97d831d5323b7f8193d998c9b0493663"
+    }
+  ]
+}

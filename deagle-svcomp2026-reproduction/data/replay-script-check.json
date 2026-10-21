@@ -1,0 +1,44 @@
+{
+  "purpose": "Verify portable reexecute.sh in a fresh directory, preserving every original baseline file. Not counted as an additional benchmark instance.",
+  "command": "bash scripts/reexecute.sh c6c1cfc251ef22d3",
+  "replay_directory": "/root/deagle-svcomp26-repro-20261021-01a15ee7/replays/20261021T164314Z-c6c1cfc251ef22d3",
+  "result": {
+    "starttime": "2026-10-22 00:43:15.840011+08:00",
+    "walltime": 0.1333071099998051,
+    "cputime": 0.13393,
+    "blkio-read": 0,
+    "blkio-write": 40960,
+    "pressure-cpu-some": "0.000239",
+    "pressure-memory-some": "0",
+    "pressure-io-some": "0",
+    "exitcode": {
+      "raw": 0,
+      "value": 0,
+      "signal": null
+    },
+    "memory_peak_method": "cgroup memory.current sampled every ~20ms; kernel 5.15 has no memory.peak",
+    "memory_sample_interval_seconds": 0.02,
+    "sampled_cgroup_peak_bytes": 12541952,
+    "peak_process_tree_member_rss_bytes": 19292160,
+    "actual_cgroup_settings": {
+      "memory.max": "14999998464",
+      "memory.swap.max": "0",
+      "memory.oom.group": "1",
+      "cpuset.cpus.effective": "4-7",
+      "cpuset.mems.effective": "0"
+    },
+    "id": "c6c1cfc251ef22d3",
+    "tool_status": "true",
+    "final_status": "true",
+    "official_status": "true",
+    "same_as_official_raw": true,
+    "completed_utc": "2026-10-21T16:43:16Z",
+    "witness_files": [
+      {
+        "name": "work/error-witness.graphml",
+        "size": 8442,
+        "sha256": "b8dafd5381be542ac7b865e57a8c7140ba26d2924f25dd99d342ffb0e770849e"
+      }
+    ]
+  }
+}

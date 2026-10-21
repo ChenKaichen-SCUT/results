@@ -1,0 +1,6397 @@
+[
+  {
+    "task": "c/goblint-regression/00-sanity_09-include.yml",
+    "family": "goblint-regression",
+    "properties": {
+      "no-data-race": {
+        "id": "ecc55c39f2a7f68f",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/goblint-regression/02-base_24-malloc_races.yml",
+    "family": "goblint-regression",
+    "properties": {
+      "no-data-race": {
+        "id": "4e781f53d109395d",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/goblint-regression/02-base_25-malloc_race_cp.yml",
+    "family": "goblint-regression",
+    "properties": {
+      "no-data-race": {
+        "id": "511539703718d669",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/goblint-regression/02-base_26-malloc_struct.yml",
+    "family": "goblint-regression",
+    "properties": {
+      "no-data-race": {
+        "id": "3ecf964f73df3716",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/goblint-regression/03-practical_07-nonterm.yml",
+    "family": "goblint-regression",
+    "properties": {
+      "no-data-race": {
+        "id": "e299378b9287bd06",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/goblint-regression/03-practical_08-nonterm1.yml",
+    "family": "goblint-regression",
+    "properties": {
+      "no-data-race": {
+        "id": "be0724a4486761b5",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/goblint-regression/03-practical_15-exit_problems.yml",
+    "family": "goblint-regression",
+    "properties": {
+      "no-data-race": {
+        "id": "9f628665d6cccba9",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/goblint-regression/04-mutex_01-simple_rc.yml",
+    "family": "goblint-regression",
+    "properties": {
+      "no-data-race": {
+        "id": "f97852c3832d2f5d",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/goblint-regression/04-mutex_03-munge_rc.yml",
+    "family": "goblint-regression",
+    "properties": {
+      "no-data-race": {
+        "id": "e1d77efb17afb7d6",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/goblint-regression/04-mutex_06-ps_rc.yml",
+    "family": "goblint-regression",
+    "properties": {
+      "no-data-race": {
+        "id": "d6d85e0a3e711765",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/goblint-regression/04-mutex_09-ptrmunge_rc.yml",
+    "family": "goblint-regression",
+    "properties": {
+      "no-data-race": {
+        "id": "842b5bf859412f20",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/goblint-regression/04-mutex_11-ptr_rc.yml",
+    "family": "goblint-regression",
+    "properties": {
+      "no-data-race": {
+        "id": "8b4ad9af1304f953",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/goblint-regression/04-mutex_14-funarg_rc.yml",
+    "family": "goblint-regression",
+    "properties": {
+      "no-data-race": {
+        "id": "fbf807199087849f",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/goblint-regression/04-mutex_16-ps_add1_rc.yml",
+    "family": "goblint-regression",
+    "properties": {
+      "no-data-race": {
+        "id": "5161409011f4a2b4",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/goblint-regression/04-mutex_19-call_by_ptr_rc.yml",
+    "family": "goblint-regression",
+    "properties": {
+      "no-data-race": {
+        "id": "1e0188a1061b4927",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/goblint-regression/04-mutex_20-stdfun_rc.yml",
+    "family": "goblint-regression",
+    "properties": {
+      "no-data-race": {
+        "id": "becdd4fd4b542832",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/goblint-regression/04-mutex_21-sound_base.yml",
+    "family": "goblint-regression",
+    "properties": {
+      "no-data-race": {
+        "id": "a8a6edf6e47db732",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/goblint-regression/04-mutex_23-sound_unlock.yml",
+    "family": "goblint-regression",
+    "properties": {
+      "no-data-race": {
+        "id": "f883f4067ebf7b96",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/goblint-regression/04-mutex_24-sound_lock.yml",
+    "family": "goblint-regression",
+    "properties": {
+      "no-data-race": {
+        "id": "93f42dd99a26e312",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/goblint-regression/04-mutex_25-single_acc.yml",
+    "family": "goblint-regression",
+    "properties": {
+      "no-data-race": {
+        "id": "0cb08ab9028ec6b6",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/goblint-regression/04-mutex_27-base_rc.yml",
+    "family": "goblint-regression",
+    "properties": {
+      "no-data-race": {
+        "id": "3d48ec007b6aa62e",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/goblint-regression/04-mutex_35-trylock_rc.yml",
+    "family": "goblint-regression",
+    "properties": {
+      "no-data-race": {
+        "id": "82497ac470794aba",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      }
+    }
+  },
+  {
+    "task": "c/goblint-regression/04-mutex_36-trylock_nr.yml",
+    "family": "goblint-regression",
+    "properties": {
+      "no-data-race": {
+        "id": "a152152e5f72059d",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "no-overflow": {
+        "id": "616ec58297966dd8",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "valid-memsafety": {
+        "id": "fec8ae9d435fa74a",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      }
+    }
+  },
+  {
+    "task": "c/goblint-regression/04-mutex_37-indirect_rc.yml",
+    "family": "goblint-regression",
+    "properties": {
+      "no-data-race": {
+        "id": "6ffd596518c98dba",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/goblint-regression/04-mutex_38-indexing_malloc.yml",
+    "family": "goblint-regression",
+    "properties": {
+      "no-data-race": {
+        "id": "f27b0c05095daacc",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/goblint-regression/04-mutex_44-malloc_sound.yml",
+    "family": "goblint-regression",
+    "properties": {
+      "no-data-race": {
+        "id": "66de2af6fc5f2eb0",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/goblint-regression/04-mutex_45-escape_rc.yml",
+    "family": "goblint-regression",
+    "properties": {
+      "no-data-race": {
+        "id": "ac906cb64a758851",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/goblint-regression/04-mutex_47-fun_write.yml",
+    "family": "goblint-regression",
+    "properties": {
+      "no-data-race": {
+        "id": "13fae513240f0153",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/goblint-regression/04-mutex_50-funptr_rc.yml",
+    "family": "goblint-regression",
+    "properties": {
+      "no-data-race": {
+        "id": "e1e507cf43822b52",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/goblint-regression/04-mutex_55-pt_rwlock_rr.yml",
+    "family": "goblint-regression",
+    "properties": {
+      "no-data-race": {
+        "id": "0256136553688ac6",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/goblint-regression/05-lval_ls_01-idx_rc.yml",
+    "family": "goblint-regression",
+    "properties": {
+      "no-data-race": {
+        "id": "25dbd1187092e0d8",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/goblint-regression/05-lval_ls_03-fld_rc.yml",
+    "family": "goblint-regression",
+    "properties": {
+      "no-data-race": {
+        "id": "67acd6ee1b5f1d29",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/goblint-regression/05-lval_ls_05-glob_idx_rc.yml",
+    "family": "goblint-regression",
+    "properties": {
+      "no-data-race": {
+        "id": "9d209f3f723e9e89",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/goblint-regression/05-lval_ls_07-glob_fld_rc.yml",
+    "family": "goblint-regression",
+    "properties": {
+      "no-data-race": {
+        "id": "2cdb1c9840227e50",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/goblint-regression/05-lval_ls_08-glob_fld_2_rc.yml",
+    "family": "goblint-regression",
+    "properties": {
+      "no-data-race": {
+        "id": "a4087b30934eac79",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/goblint-regression/05-lval_ls_09-idxsense_rc.yml",
+    "family": "goblint-regression",
+    "properties": {
+      "no-data-race": {
+        "id": "a33766f416c67e19",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/goblint-regression/05-lval_ls_11-fldsense_rc.yml",
+    "family": "goblint-regression",
+    "properties": {
+      "no-data-race": {
+        "id": "36f0deac418b4a87",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/goblint-regression/05-lval_ls_13-idxunknown_lock.yml",
+    "family": "goblint-regression",
+    "properties": {
+      "no-data-race": {
+        "id": "887af3d0a14aecc7",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/goblint-regression/05-lval_ls_14-idxunknown_access.yml",
+    "family": "goblint-regression",
+    "properties": {
+      "no-data-race": {
+        "id": "7ac0189bea4ca3c3",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/goblint-regression/05-lval_ls_15-fldunknown_access.yml",
+    "family": "goblint-regression",
+    "properties": {
+      "no-data-race": {
+        "id": "2f76d46b107daf46",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/goblint-regression/05-lval_ls_16-idxunknown_unlock.yml",
+    "family": "goblint-regression",
+    "properties": {
+      "no-data-race": {
+        "id": "8529c6f069539966",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/goblint-regression/06-symbeq_03-funloop_simple.yml",
+    "family": "goblint-regression",
+    "properties": {
+      "no-data-race": {
+        "id": "5138baac0bcd3ac4",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/goblint-regression/06-symbeq_04-funloop_hard1.yml",
+    "family": "goblint-regression",
+    "properties": {
+      "no-data-race": {
+        "id": "39165fb6b6713a97",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/goblint-regression/06-symbeq_09-tricky_address4.yml",
+    "family": "goblint-regression",
+    "properties": {
+      "no-data-race": {
+        "id": "390879f9ccc708c8",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/goblint-regression/06-symbeq_10-equ_rc.yml",
+    "family": "goblint-regression",
+    "properties": {
+      "no-data-race": {
+        "id": "89f87f6265fafa45",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/goblint-regression/09-regions_01-list_rc.yml",
+    "family": "goblint-regression",
+    "properties": {
+      "no-data-race": {
+        "id": "31926f53182a953d",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/goblint-regression/09-regions_03-list2_rc.yml",
+    "family": "goblint-regression",
+    "properties": {
+      "no-data-race": {
+        "id": "28d17f1a71e699f2",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/goblint-regression/09-regions_05-ptra_rc.yml",
+    "family": "goblint-regression",
+    "properties": {
+      "no-data-race": {
+        "id": "a7aa58a73e257938",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/goblint-regression/09-regions_10-arraylist_rc.yml",
+    "family": "goblint-regression",
+    "properties": {
+      "no-data-race": {
+        "id": "65335364d43e3604",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/goblint-regression/09-regions_16-arrayloop_rc.yml",
+    "family": "goblint-regression",
+    "properties": {
+      "no-data-race": {
+        "id": "073aa30bac34b6cf",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/goblint-regression/09-regions_17-arrayloop_nr.yml",
+    "family": "goblint-regression",
+    "properties": {
+      "valid-memsafety": {
+        "id": "5820eb4b23c4e010",
+        "official_anomaly": "TIMEOUT",
+        "cause_code": "cpu_limit",
+        "completed": true,
+        "status": "TIMEOUT"
+      }
+    }
+  },
+  {
+    "task": "c/goblint-regression/09-regions_18-nested_rc.yml",
+    "family": "goblint-regression",
+    "properties": {
+      "no-data-race": {
+        "id": "2ec6b2943727bc18",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/goblint-regression/09-regions_19-nested_nr-deref.yml",
+    "family": "goblint-regression",
+    "properties": {
+      "valid-memsafety": {
+        "id": "cd1baab28f3c47ef",
+        "official_anomaly": "witness invalid",
+        "cause_code": "empty_graphml_source_location",
+        "completed": true,
+        "status": "false(valid-deref)"
+      }
+    }
+  },
+  {
+    "task": "c/goblint-regression/09-regions_20-arrayloop2_rc.yml",
+    "family": "goblint-regression",
+    "properties": {
+      "no-data-race": {
+        "id": "af5c1d1f9f20a554",
+        "official_anomaly": "TIMEOUT",
+        "cause_code": "cpu_limit",
+        "completed": true,
+        "status": "TIMEOUT"
+      }
+    }
+  },
+  {
+    "task": "c/goblint-regression/09-regions_21-arrayloop2_nr.yml",
+    "family": "goblint-regression",
+    "properties": {
+      "no-data-race": {
+        "id": "de84c5202513fc9b",
+        "official_anomaly": "TIMEOUT",
+        "cause_code": "cpu_limit",
+        "completed": true,
+        "status": "TIMEOUT"
+      },
+      "no-overflow": {
+        "id": "5762debd1f9e9bfe",
+        "official_anomaly": "OUT OF MEMORY",
+        "cause_code": "memory_limit",
+        "completed": true,
+        "status": "OUT OF MEMORY"
+      },
+      "valid-memsafety": {
+        "id": "da6076139e56ea71",
+        "official_anomaly": "OUT OF MEMORY",
+        "cause_code": "memory_limit",
+        "completed": true,
+        "status": "OUT OF MEMORY"
+      }
+    }
+  },
+  {
+    "task": "c/goblint-regression/09-regions_22-nocollapse.yml",
+    "family": "goblint-regression",
+    "properties": {
+      "no-data-race": {
+        "id": "49cf48f04946d970",
+        "official_anomaly": "TIMEOUT",
+        "cause_code": "cpu_limit",
+        "completed": true,
+        "status": "TIMEOUT"
+      },
+      "no-overflow": {
+        "id": "153a1524fb09c668",
+        "official_anomaly": "OUT OF MEMORY",
+        "cause_code": "memory_limit",
+        "completed": true,
+        "status": "OUT OF MEMORY"
+      },
+      "valid-memsafety": {
+        "id": "dc641da0a63783a7",
+        "official_anomaly": "OUT OF MEMORY",
+        "cause_code": "memory_limit",
+        "completed": true,
+        "status": "OUT OF MEMORY"
+      }
+    }
+  },
+  {
+    "task": "c/goblint-regression/09-regions_23-evilcollapse_rc.yml",
+    "family": "goblint-regression",
+    "properties": {
+      "no-data-race": {
+        "id": "c32a7259e410886a",
+        "official_anomaly": "TIMEOUT",
+        "cause_code": "cpu_limit",
+        "completed": true,
+        "status": "TIMEOUT"
+      }
+    }
+  },
+  {
+    "task": "c/goblint-regression/09-regions_24-evilcollapse_nr.yml",
+    "family": "goblint-regression",
+    "properties": {
+      "no-data-race": {
+        "id": "802f67c86f28925c",
+        "official_anomaly": "TIMEOUT",
+        "cause_code": "cpu_limit",
+        "completed": true,
+        "status": "TIMEOUT"
+      },
+      "no-overflow": {
+        "id": "5aeda776aa1ae739",
+        "official_anomaly": "OUT OF MEMORY",
+        "cause_code": "memory_limit",
+        "completed": true,
+        "status": "OUT OF MEMORY"
+      },
+      "valid-memsafety": {
+        "id": "0229a1ee97c9d3bb",
+        "official_anomaly": "OUT OF MEMORY",
+        "cause_code": "memory_limit",
+        "completed": true,
+        "status": "OUT OF MEMORY"
+      }
+    }
+  },
+  {
+    "task": "c/goblint-regression/09-regions_26-alloc_region_rc.yml",
+    "family": "goblint-regression",
+    "properties": {
+      "no-data-race": {
+        "id": "af8da85c92e774eb",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/goblint-regression/09-regions_28-list2alloc.yml",
+    "family": "goblint-regression",
+    "properties": {
+      "no-data-race": {
+        "id": "340fcb0d29643430",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/goblint-regression/10-synch_02-thread_nonunique.yml",
+    "family": "goblint-regression",
+    "properties": {
+      "no-data-race": {
+        "id": "3279612658ed9a8e",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/goblint-regression/13-privatized_04-priv_multi_true.yml",
+    "family": "goblint-regression",
+    "properties": {
+      "no-data-race": {
+        "id": "d878ad41d7973b50",
+        "official_anomaly": "TIMEOUT",
+        "cause_code": "cpu_limit",
+        "completed": true,
+        "status": "TIMEOUT"
+      },
+      "unreach-call": {
+        "id": "35d920b331f37594",
+        "official_anomaly": "TIMEOUT",
+        "cause_code": "cpu_limit",
+        "completed": true,
+        "status": "TIMEOUT"
+      }
+    }
+  },
+  {
+    "task": "c/goblint-regression/28-race_reach_01-simple_racing.yml",
+    "family": "goblint-regression",
+    "properties": {
+      "no-data-race": {
+        "id": "9a8bb0c8195a8441",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "no-overflow": {
+        "id": "3e8bf83d684d7918",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "unreach-call": {
+        "id": "c8e931a13f2fd317",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "valid-memsafety": {
+        "id": "c1df39c7ad776ef3",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      }
+    }
+  },
+  {
+    "task": "c/goblint-regression/28-race_reach_02-simple_racefree.yml",
+    "family": "goblint-regression",
+    "properties": {
+      "no-data-race": {
+        "id": "79d82f4bc52a4214",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "no-overflow": {
+        "id": "e69d97cbd54da1d0",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "unreach-call": {
+        "id": "32f0fa04e7670772",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "valid-memsafety": {
+        "id": "e620e8a01ab8f062",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      }
+    }
+  },
+  {
+    "task": "c/goblint-regression/28-race_reach_03-munge_racing.yml",
+    "family": "goblint-regression",
+    "properties": {
+      "no-data-race": {
+        "id": "a162ed17eb74ac5f",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "no-overflow": {
+        "id": "663dd8f8ea3f57b9",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "unreach-call": {
+        "id": "9a290e79ffb06f0b",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "valid-memsafety": {
+        "id": "72e7ce822794685d",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      }
+    }
+  },
+  {
+    "task": "c/goblint-regression/28-race_reach_04-munge_racefree.yml",
+    "family": "goblint-regression",
+    "properties": {
+      "no-data-race": {
+        "id": "3c2cea2653251a40",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "no-overflow": {
+        "id": "a90b5976ef528518",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "unreach-call": {
+        "id": "aef9fc0305aa66b6",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "valid-memsafety": {
+        "id": "b693f60f41982465",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      }
+    }
+  },
+  {
+    "task": "c/goblint-regression/28-race_reach_05-lockfuns_racefree.yml",
+    "family": "goblint-regression",
+    "properties": {
+      "no-data-race": {
+        "id": "1a3605dc78d1b4f3",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "no-overflow": {
+        "id": "3a2bf821ff05606a",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "unreach-call": {
+        "id": "b06fb913f0ff4cd3",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "valid-memsafety": {
+        "id": "13dc5deb9b35effa",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      }
+    }
+  },
+  {
+    "task": "c/goblint-regression/28-race_reach_06-cond_racing1.yml",
+    "family": "goblint-regression",
+    "properties": {
+      "no-data-race": {
+        "id": "3331f11b8865ae63",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "no-overflow": {
+        "id": "c4feac4ae48c0d42",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "unreach-call": {
+        "id": "cff3adb5b5bad2ac",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "valid-memsafety": {
+        "id": "ec6b2d9fcc7bf569",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      }
+    }
+  },
+  {
+    "task": "c/goblint-regression/28-race_reach_07-cond_racing2.yml",
+    "family": "goblint-regression",
+    "properties": {
+      "no-data-race": {
+        "id": "a0a753ea5f1716e7",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "no-overflow": {
+        "id": "fa2be33f5a5b5f54",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "unreach-call": {
+        "id": "deb9e71be8999428",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "valid-memsafety": {
+        "id": "eb61273c6de96e58",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      }
+    }
+  },
+  {
+    "task": "c/goblint-regression/28-race_reach_08-cond_racefree.yml",
+    "family": "goblint-regression",
+    "properties": {
+      "no-data-race": {
+        "id": "57fa6d938e8362ce",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "no-overflow": {
+        "id": "2ae484e2c4693536",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "unreach-call": {
+        "id": "5a3b85a60910ec15",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "valid-memsafety": {
+        "id": "aa1048c9d2499805",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      }
+    }
+  },
+  {
+    "task": "c/goblint-regression/28-race_reach_09-ptrmunge_racing.yml",
+    "family": "goblint-regression",
+    "properties": {
+      "no-data-race": {
+        "id": "fdd8434b5304add4",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "no-overflow": {
+        "id": "34220516af4f2170",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "unreach-call": {
+        "id": "63a8b7dc938932bd",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "valid-memsafety": {
+        "id": "e092e737318eb9de",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      }
+    }
+  },
+  {
+    "task": "c/goblint-regression/28-race_reach_10-ptrmunge_racefree.yml",
+    "family": "goblint-regression",
+    "properties": {
+      "no-data-race": {
+        "id": "32849e3dc5324fca",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "no-overflow": {
+        "id": "e1790a56fe36a1c4",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "unreach-call": {
+        "id": "75c4a1c2b7e2c1c7",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "valid-memsafety": {
+        "id": "b65df8a0acde8610",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      }
+    }
+  },
+  {
+    "task": "c/goblint-regression/28-race_reach_11-ptr_racing.yml",
+    "family": "goblint-regression",
+    "properties": {
+      "no-data-race": {
+        "id": "412bfc892b254399",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "no-overflow": {
+        "id": "b3d26307b4c4d795",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "unreach-call": {
+        "id": "d45c9adabd68b34d",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "valid-memsafety": {
+        "id": "0099ab55152778e7",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      }
+    }
+  },
+  {
+    "task": "c/goblint-regression/28-race_reach_12-ptr_racefree.yml",
+    "family": "goblint-regression",
+    "properties": {
+      "no-data-race": {
+        "id": "77c687fdc9d1edfa",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "no-overflow": {
+        "id": "91d180e87b969930",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "unreach-call": {
+        "id": "9d11dc5036bb19a9",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "valid-memsafety": {
+        "id": "026801d735606a2e",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      }
+    }
+  },
+  {
+    "task": "c/goblint-regression/28-race_reach_19-callback_racing.yml",
+    "family": "goblint-regression",
+    "properties": {
+      "no-data-race": {
+        "id": "d94c778461f4c1ef",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "no-overflow": {
+        "id": "af071c30f7de425c",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "unreach-call": {
+        "id": "adaa4ad64a43c0d2",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "valid-memsafety": {
+        "id": "0c9159e57582ba4d",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      }
+    }
+  },
+  {
+    "task": "c/goblint-regression/28-race_reach_20-callback_racefree.yml",
+    "family": "goblint-regression",
+    "properties": {
+      "no-data-race": {
+        "id": "0d5deff6c786fef4",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "no-overflow": {
+        "id": "197aa64480326551",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "unreach-call": {
+        "id": "cb74303f34b48597",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "valid-memsafety": {
+        "id": "4fbfa191e0601db4",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      }
+    }
+  },
+  {
+    "task": "c/goblint-regression/28-race_reach_21-deref_read_racing.yml",
+    "family": "goblint-regression",
+    "properties": {
+      "no-data-race": {
+        "id": "19dfcbb237496e58",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "no-overflow": {
+        "id": "0d4aa975aeb8a890",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "unreach-call": {
+        "id": "3dff40c318978058",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "valid-memsafety": {
+        "id": "2bd16830c2da1b84",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      }
+    }
+  },
+  {
+    "task": "c/goblint-regression/28-race_reach_22-deref_read_racefree.yml",
+    "family": "goblint-regression",
+    "properties": {
+      "no-data-race": {
+        "id": "876c4dd553cd0e27",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "no-overflow": {
+        "id": "bf65a7fe916428d3",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "unreach-call": {
+        "id": "ca8827293f70daf5",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "valid-memsafety": {
+        "id": "868ce202f148502f",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      }
+    }
+  },
+  {
+    "task": "c/goblint-regression/28-race_reach_23-sound_unlock_racing.yml",
+    "family": "goblint-regression",
+    "properties": {
+      "no-data-race": {
+        "id": "1cef9b46cf33d1db",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "no-overflow": {
+        "id": "6fdc3335ee98e6d8",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "unreach-call": {
+        "id": "fdbac0c6cda53840",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "valid-memsafety": {
+        "id": "24e54e6b16a0f8c5",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      }
+    }
+  },
+  {
+    "task": "c/goblint-regression/28-race_reach_24-sound_lock_racing.yml",
+    "family": "goblint-regression",
+    "properties": {
+      "no-data-race": {
+        "id": "3e1f0ef082d971d7",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "no-overflow": {
+        "id": "898559ad8ace0b7a",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "unreach-call": {
+        "id": "8ad645f1dd60bfd5",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "valid-memsafety": {
+        "id": "0608712d10a85522",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      }
+    }
+  },
+  {
+    "task": "c/goblint-regression/28-race_reach_27-funptr_racing.yml",
+    "family": "goblint-regression",
+    "properties": {
+      "no-data-race": {
+        "id": "733fd86902efec2f",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "no-overflow": {
+        "id": "3d516ab225ed5820",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "unreach-call": {
+        "id": "2714366f9fcb5eca",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "valid-memsafety": {
+        "id": "429f82f73096c796",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      }
+    }
+  },
+  {
+    "task": "c/goblint-regression/28-race_reach_28-funptr_racefree.yml",
+    "family": "goblint-regression",
+    "properties": {
+      "no-data-race": {
+        "id": "6751c62231d70440",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "no-overflow": {
+        "id": "a4c45391e7995606",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "unreach-call": {
+        "id": "31fd24057f52a00e",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "valid-memsafety": {
+        "id": "fa6b835997413319",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      }
+    }
+  },
+  {
+    "task": "c/goblint-regression/28-race_reach_36-indirect_racefree.yml",
+    "family": "goblint-regression",
+    "properties": {
+      "no-data-race": {
+        "id": "90a0f986fb445199",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "no-overflow": {
+        "id": "14f4edcb777c1a6f",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "unreach-call": {
+        "id": "6d92b1e7dc0e3f62",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "valid-memsafety": {
+        "id": "96ebb19d74606311",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      }
+    }
+  },
+  {
+    "task": "c/goblint-regression/28-race_reach_37-indirect_racing.yml",
+    "family": "goblint-regression",
+    "properties": {
+      "no-data-race": {
+        "id": "610edd9c4fe4c05f",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "no-overflow": {
+        "id": "e5ba27730023a4eb",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "unreach-call": {
+        "id": "55dcd643678003f6",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "valid-memsafety": {
+        "id": "a3fc4b19efd5483e",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      }
+    }
+  },
+  {
+    "task": "c/goblint-regression/28-race_reach_40-trylock_racing.yml",
+    "family": "goblint-regression",
+    "properties": {
+      "no-data-race": {
+        "id": "9b339b0251901aa9",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "no-overflow": {
+        "id": "440955a3fda28453",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "unreach-call": {
+        "id": "0f913c071d0f56f9",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "valid-memsafety": {
+        "id": "9955a919f8e293a1",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      }
+    }
+  },
+  {
+    "task": "c/goblint-regression/28-race_reach_41-trylock_racefree.yml",
+    "family": "goblint-regression",
+    "properties": {
+      "no-data-race": {
+        "id": "4db406256948a6b3",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "no-overflow": {
+        "id": "461ba8e3dde00a69",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "unreach-call": {
+        "id": "2bd73e116da9f02a",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "valid-memsafety": {
+        "id": "32675a0526b241ca",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      }
+    }
+  },
+  {
+    "task": "c/goblint-regression/28-race_reach_42-trylock2_racefree.yml",
+    "family": "goblint-regression",
+    "properties": {
+      "no-data-race": {
+        "id": "a7094b043d9fcf30",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "no-overflow": {
+        "id": "bc1e50c5dcb69328",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "unreach-call": {
+        "id": "814de891b2be7f7c",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "valid-memsafety": {
+        "id": "30dc52f8c5db381f",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      }
+    }
+  },
+  {
+    "task": "c/goblint-regression/28-race_reach_51-mutexptr_racefree.yml",
+    "family": "goblint-regression",
+    "properties": {
+      "no-data-race": {
+        "id": "9bbeebb99e76c6db",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "no-overflow": {
+        "id": "d9c8b5512de52a1a",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "unreach-call": {
+        "id": "e68a0886293bf56f",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "valid-memsafety": {
+        "id": "3a97440ff45d97f9",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      }
+    }
+  },
+  {
+    "task": "c/goblint-regression/28-race_reach_60-invariant_racefree.yml",
+    "family": "goblint-regression",
+    "properties": {
+      "no-data-race": {
+        "id": "0e217ea0da51446c",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "no-overflow": {
+        "id": "5ce0473187f5fea9",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "unreach-call": {
+        "id": "d25be9a0551a0964",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "valid-memsafety": {
+        "id": "f16a0c77a3974728",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      }
+    }
+  },
+  {
+    "task": "c/goblint-regression/28-race_reach_61-invariant_racing-2.yml",
+    "family": "goblint-regression",
+    "properties": {
+      "no-data-race": {
+        "id": "521a04da241905db",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      }
+    }
+  },
+  {
+    "task": "c/goblint-regression/28-race_reach_61-invariant_racing.yml",
+    "family": "goblint-regression",
+    "properties": {
+      "no-data-race": {
+        "id": "cc52ed7329361ad1",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "no-overflow": {
+        "id": "05e69e9a17a2c40d",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "unreach-call": {
+        "id": "5df39d2b56bfd9b8",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "valid-memsafety": {
+        "id": "8f87a3e6c66d1b84",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      }
+    }
+  },
+  {
+    "task": "c/goblint-regression/28-race_reach_70-funloop_racefree.yml",
+    "family": "goblint-regression",
+    "properties": {
+      "no-data-race": {
+        "id": "fdde3ec30c373c21",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "no-overflow": {
+        "id": "376ca6851348daa6",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "unreach-call": {
+        "id": "5bb1979ce8e5f966",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "valid-memsafety": {
+        "id": "11eb920efbb4138d",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      }
+    }
+  },
+  {
+    "task": "c/goblint-regression/28-race_reach_71-funloop_racing.yml",
+    "family": "goblint-regression",
+    "properties": {
+      "no-data-race": {
+        "id": "e89fe139c3d1820a",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "no-overflow": {
+        "id": "59b74ce31e8bc0f6",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "unreach-call": {
+        "id": "f3eb204c5cc3c496",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "valid-memsafety": {
+        "id": "5c28376450cf0251",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      }
+    }
+  },
+  {
+    "task": "c/goblint-regression/28-race_reach_72-funloop_hard_racing.yml",
+    "family": "goblint-regression",
+    "properties": {
+      "no-data-race": {
+        "id": "46edcf7820ec3cdb",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "no-overflow": {
+        "id": "a337c36bf273ebbf",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "unreach-call": {
+        "id": "67dd0cc2bf31934c",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "valid-memsafety": {
+        "id": "4cadc79695f39752",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      }
+    }
+  },
+  {
+    "task": "c/goblint-regression/28-race_reach_73-funloop_hard_racefree.yml",
+    "family": "goblint-regression",
+    "properties": {
+      "no-data-race": {
+        "id": "ec568f71e0c86a8d",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "no-overflow": {
+        "id": "f607924ac7eb1e34",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "unreach-call": {
+        "id": "4b1d8ae578ca96b8",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "valid-memsafety": {
+        "id": "ce3845673fad5f90",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      }
+    }
+  },
+  {
+    "task": "c/goblint-regression/28-race_reach_74-tricky_address1_racefree.yml",
+    "family": "goblint-regression",
+    "properties": {
+      "no-data-race": {
+        "id": "afc31947ac6a64bf",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "no-overflow": {
+        "id": "06bb2b5e5b252e68",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "unreach-call": {
+        "id": "597f846dade000c2",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "valid-memsafety": {
+        "id": "c42e1bcc46de4d0d",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      }
+    }
+  },
+  {
+    "task": "c/goblint-regression/28-race_reach_75-tricky_address2_racefree.yml",
+    "family": "goblint-regression",
+    "properties": {
+      "no-data-race": {
+        "id": "b1b330845cf2013d",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "no-overflow": {
+        "id": "5a8db6ea8191da6c",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "unreach-call": {
+        "id": "5fcb6a54bcb2e824",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "valid-memsafety": {
+        "id": "c7f131dbed9851a2",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      }
+    }
+  },
+  {
+    "task": "c/goblint-regression/28-race_reach_76-tricky_address3_racefree.yml",
+    "family": "goblint-regression",
+    "properties": {
+      "no-data-race": {
+        "id": "e58abf595508eef4",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "no-overflow": {
+        "id": "a1f5ed464e195c74",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "unreach-call": {
+        "id": "8b652ea7bd9e97a6",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "valid-memsafety": {
+        "id": "08057e936157b7e8",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      }
+    }
+  },
+  {
+    "task": "c/goblint-regression/28-race_reach_77-tricky_address4_racing.yml",
+    "family": "goblint-regression",
+    "properties": {
+      "no-data-race": {
+        "id": "2a6ad6f68855088e",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "no-overflow": {
+        "id": "afa229193bb68c7f",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "unreach-call": {
+        "id": "e54307f797567841",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "valid-memsafety": {
+        "id": "32a790313cf25ddf",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      }
+    }
+  },
+  {
+    "task": "c/goblint-regression/28-race_reach_78-equ_racing.yml",
+    "family": "goblint-regression",
+    "properties": {
+      "no-data-race": {
+        "id": "de9a0d4e3e2aa162",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "no-overflow": {
+        "id": "6a06bd95874e6239",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "unreach-call": {
+        "id": "f6443d5b12eae3d6",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "valid-memsafety": {
+        "id": "c97582226fe26759",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      }
+    }
+  },
+  {
+    "task": "c/goblint-regression/28-race_reach_79-equ_racefree.yml",
+    "family": "goblint-regression",
+    "properties": {
+      "no-data-race": {
+        "id": "2ce2c46bda73703f",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "no-overflow": {
+        "id": "3af7cf4100cbc1aa",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "unreach-call": {
+        "id": "f12690f5fa52b13c",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "valid-memsafety": {
+        "id": "b8302dd6a556d157",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      }
+    }
+  },
+  {
+    "task": "c/goblint-regression/28-race_reach_81-list_racing.yml",
+    "family": "goblint-regression",
+    "properties": {
+      "no-data-race": {
+        "id": "928c4f192cc0006a",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "no-overflow": {
+        "id": "3daf92c6d375d62f",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "unreach-call": {
+        "id": "1ced305ab4b28451",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "valid-memsafety": {
+        "id": "84d8560e168d5b4f",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      }
+    }
+  },
+  {
+    "task": "c/goblint-regression/28-race_reach_82-list_racefree.yml",
+    "family": "goblint-regression",
+    "properties": {
+      "no-data-race": {
+        "id": "ce0528280fb5175d",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "no-overflow": {
+        "id": "1f1bc2064684674d",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "unreach-call": {
+        "id": "84a3b36d86311102",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "valid-memsafety": {
+        "id": "4e980b823cfc6517",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      }
+    }
+  },
+  {
+    "task": "c/goblint-regression/28-race_reach_83-list2_racing1.yml",
+    "family": "goblint-regression",
+    "properties": {
+      "no-data-race": {
+        "id": "2c7bbaf8bfc23574",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "no-overflow": {
+        "id": "eab733823b9aade0",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "unreach-call": {
+        "id": "a650a30a0360fb66",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "valid-memsafety": {
+        "id": "476d7bd519c09591",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      }
+    }
+  },
+  {
+    "task": "c/goblint-regression/28-race_reach_84-list2_racing2.yml",
+    "family": "goblint-regression",
+    "properties": {
+      "no-data-race": {
+        "id": "f0fe9bcaac6fdd5a",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "no-overflow": {
+        "id": "142d59331d1a5b97",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "unreach-call": {
+        "id": "0c11e81ce45db6e4",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "valid-memsafety": {
+        "id": "1f3708b12b569298",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      }
+    }
+  },
+  {
+    "task": "c/goblint-regression/28-race_reach_85-list2_racefree.yml",
+    "family": "goblint-regression",
+    "properties": {
+      "no-data-race": {
+        "id": "86ea3e3955be8fb4",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "no-overflow": {
+        "id": "72407cfc6ddae5e1",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "unreach-call": {
+        "id": "5577bffe98c71073",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "valid-memsafety": {
+        "id": "1e650b2352316ddb",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      }
+    }
+  },
+  {
+    "task": "c/goblint-regression/28-race_reach_86-lists_racing-deref.yml",
+    "family": "goblint-regression",
+    "properties": {
+      "valid-memsafety": {
+        "id": "280aeaef932c7829",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      }
+    }
+  },
+  {
+    "task": "c/goblint-regression/28-race_reach_86-lists_racing.yml",
+    "family": "goblint-regression",
+    "properties": {
+      "no-data-race": {
+        "id": "8b67fc8285c37437",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "no-overflow": {
+        "id": "12bf9a492325a52b",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "unreach-call": {
+        "id": "ab963ac87f676a7f",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "valid-memsafety": {
+        "id": "1493e7e3092d14ee",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      }
+    }
+  },
+  {
+    "task": "c/goblint-regression/28-race_reach_87-lists_racefree-deref.yml",
+    "family": "goblint-regression",
+    "properties": {
+      "valid-memsafety": {
+        "id": "cf34cc532e8462a1",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      }
+    }
+  },
+  {
+    "task": "c/goblint-regression/28-race_reach_87-lists_racefree.yml",
+    "family": "goblint-regression",
+    "properties": {
+      "no-data-race": {
+        "id": "d21efeaf5803537e",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "no-overflow": {
+        "id": "35d68cb549e6ded8",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "unreach-call": {
+        "id": "ae362c76beb7fbe6",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "valid-memsafety": {
+        "id": "e4c0640bb4b1d6ea",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      }
+    }
+  },
+  {
+    "task": "c/goblint-regression/28-race_reach_90-arrayloop2_racing.yml",
+    "family": "goblint-regression",
+    "properties": {
+      "no-data-race": {
+        "id": "368543082e570d8a",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "no-overflow": {
+        "id": "a49c003ce994637c",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "unreach-call": {
+        "id": "e7185496a9e1e37b",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "valid-memsafety": {
+        "id": "f8a25b9e02f00838",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      }
+    }
+  },
+  {
+    "task": "c/goblint-regression/28-race_reach_91-arrayloop2_racefree.yml",
+    "family": "goblint-regression",
+    "properties": {
+      "no-data-race": {
+        "id": "4ad589064d2c05b2",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "no-overflow": {
+        "id": "21c6149ae1141659",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "unreach-call": {
+        "id": "fdbd1d23032539f7",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "valid-memsafety": {
+        "id": "bbdd57ed3dab539f",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      }
+    }
+  },
+  {
+    "task": "c/goblint-regression/28-race_reach_92-evilcollapse_racing-deref.yml",
+    "family": "goblint-regression",
+    "properties": {
+      "valid-memsafety": {
+        "id": "ec235beb2ecb91b9",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      }
+    }
+  },
+  {
+    "task": "c/goblint-regression/28-race_reach_92-evilcollapse_racing.yml",
+    "family": "goblint-regression",
+    "properties": {
+      "no-data-race": {
+        "id": "8e95d45f32c49056",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "no-overflow": {
+        "id": "2ab5fcd6bfe8180a",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "unreach-call": {
+        "id": "9a3d15260f493e6e",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "valid-memsafety": {
+        "id": "b9cb9a7ba632710e",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      }
+    }
+  },
+  {
+    "task": "c/goblint-regression/28-race_reach_93-evilcollapse_racefree.yml",
+    "family": "goblint-regression",
+    "properties": {
+      "no-data-race": {
+        "id": "fce73abe9ea9a291",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "no-overflow": {
+        "id": "5ff9c66d881e3fe5",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "unreach-call": {
+        "id": "dc83e35d98a4031e",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "valid-memsafety": {
+        "id": "91c76e7a8c3a88bf",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      }
+    }
+  },
+  {
+    "task": "c/goblint-regression/28-race_reach_94-alloc_region_racing.yml",
+    "family": "goblint-regression",
+    "properties": {
+      "no-data-race": {
+        "id": "bfcd4a82d7f41c6d",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "no-overflow": {
+        "id": "3192f4c4f9a23a48",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "unreach-call": {
+        "id": "cec88a1fbba7af08",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "valid-memsafety": {
+        "id": "6240e70a1d063912",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      }
+    }
+  },
+  {
+    "task": "c/ldv-linux-3.14-races/linux-3.14--drivers--media--platform--marvell-ccic--cafe_ccic.ko.cil-1.yml",
+    "family": "ldv-linux-3.14-races",
+    "properties": {
+      "no-data-race": {
+        "id": "39ca258ab00a7102",
+        "official_anomaly": "UNKNOWN",
+        "cause_code": "unsupported_inline_asm",
+        "completed": true,
+        "status": "unknown"
+      },
+      "no-overflow": {
+        "id": "17eb1315e1ba8cdd",
+        "official_anomaly": "UNKNOWN",
+        "cause_code": "unsupported_inline_asm",
+        "completed": true,
+        "status": "unknown"
+      },
+      "unreach-call": {
+        "id": "b805f378c233a24d",
+        "official_anomaly": "UNKNOWN",
+        "cause_code": "unsupported_inline_asm",
+        "completed": true,
+        "status": "unknown"
+      },
+      "valid-memsafety": {
+        "id": "b7ae861021814f5f",
+        "official_anomaly": "UNKNOWN",
+        "cause_code": "unsupported_inline_asm",
+        "completed": true,
+        "status": "unknown"
+      }
+    }
+  },
+  {
+    "task": "c/ldv-linux-3.14-races/linux-3.14--drivers--media--platform--marvell-ccic--cafe_ccic.ko.cil-2.yml",
+    "family": "ldv-linux-3.14-races",
+    "properties": {
+      "no-data-race": {
+        "id": "eee842c2c4e28ff6",
+        "official_anomaly": "UNKNOWN",
+        "cause_code": "unsupported_inline_asm",
+        "completed": true,
+        "status": "unknown"
+      },
+      "no-overflow": {
+        "id": "5bf7349f030d18b3",
+        "official_anomaly": "UNKNOWN",
+        "cause_code": "unsupported_inline_asm",
+        "completed": true,
+        "status": "unknown"
+      },
+      "unreach-call": {
+        "id": "e4d0b9f1139993f3",
+        "official_anomaly": "UNKNOWN",
+        "cause_code": "unsupported_inline_asm",
+        "completed": true,
+        "status": "unknown"
+      },
+      "valid-memsafety": {
+        "id": "36c339d1b8de91fa",
+        "official_anomaly": "UNKNOWN",
+        "cause_code": "unsupported_inline_asm",
+        "completed": true,
+        "status": "unknown"
+      }
+    }
+  },
+  {
+    "task": "c/ldv-linux-3.14-races/linux-3.14--drivers--net--irda--nsc-ircc.ko.cil.yml",
+    "family": "ldv-linux-3.14-races",
+    "properties": {
+      "no-data-race": {
+        "id": "c94482cb22153c2e",
+        "official_anomaly": "UNKNOWN",
+        "cause_code": "unsupported_inline_asm",
+        "completed": true,
+        "status": "unknown"
+      },
+      "no-overflow": {
+        "id": "20884c732b0761f6",
+        "official_anomaly": "UNKNOWN",
+        "cause_code": "unsupported_inline_asm",
+        "completed": true,
+        "status": "unknown"
+      },
+      "unreach-call": {
+        "id": "1bb3125ade100ae3",
+        "official_anomaly": "UNKNOWN",
+        "cause_code": "unsupported_inline_asm",
+        "completed": true,
+        "status": "unknown"
+      },
+      "valid-memsafety": {
+        "id": "72480d03aebed39e",
+        "official_anomaly": "UNKNOWN",
+        "cause_code": "unsupported_inline_asm",
+        "completed": true,
+        "status": "unknown"
+      }
+    }
+  },
+  {
+    "task": "c/ldv-linux-3.14-races/linux-3.14--drivers--net--irda--w83977af_ir.ko.cil.yml",
+    "family": "ldv-linux-3.14-races",
+    "properties": {
+      "no-data-race": {
+        "id": "aa97ee3dca20d782",
+        "official_anomaly": "UNKNOWN",
+        "cause_code": "unsupported_inline_asm",
+        "completed": true,
+        "status": "unknown"
+      },
+      "no-overflow": {
+        "id": "089907b100137560",
+        "official_anomaly": "UNKNOWN",
+        "cause_code": "unsupported_inline_asm",
+        "completed": true,
+        "status": "unknown"
+      },
+      "unreach-call": {
+        "id": "3af6eca9e0ce10cb",
+        "official_anomaly": "UNKNOWN",
+        "cause_code": "unsupported_inline_asm",
+        "completed": true,
+        "status": "unknown"
+      },
+      "valid-memsafety": {
+        "id": "a90acf8013735231",
+        "official_anomaly": "UNKNOWN",
+        "cause_code": "unsupported_inline_asm",
+        "completed": true,
+        "status": "unknown"
+      }
+    }
+  },
+  {
+    "task": "c/ldv-linux-3.14-races/linux-3.14--drivers--spi--spi-tegra20-slink.ko.cil.yml",
+    "family": "ldv-linux-3.14-races",
+    "properties": {
+      "no-data-race": {
+        "id": "f3bb398b63e15ee9",
+        "official_anomaly": "UNKNOWN",
+        "cause_code": "unsupported_inline_asm",
+        "completed": true,
+        "status": "unknown"
+      },
+      "no-overflow": {
+        "id": "59586d23826b3037",
+        "official_anomaly": "UNKNOWN",
+        "cause_code": "unsupported_inline_asm",
+        "completed": true,
+        "status": "unknown"
+      },
+      "unreach-call": {
+        "id": "1a283236734213d8",
+        "official_anomaly": "UNKNOWN",
+        "cause_code": "unsupported_inline_asm",
+        "completed": true,
+        "status": "unknown"
+      },
+      "valid-memsafety": {
+        "id": "78e83008d6e55e67",
+        "official_anomaly": "UNKNOWN",
+        "cause_code": "unsupported_inline_asm",
+        "completed": true,
+        "status": "unknown"
+      }
+    }
+  },
+  {
+    "task": "c/ldv-linux-3.14-races/linux-3.14--drivers--usb--misc--adutux.ko.cil.yml",
+    "family": "ldv-linux-3.14-races",
+    "properties": {
+      "no-data-race": {
+        "id": "8e662f718ab0f3ff",
+        "official_anomaly": "UNKNOWN",
+        "cause_code": "unsupported_inline_asm",
+        "completed": true,
+        "status": "unknown"
+      },
+      "no-overflow": {
+        "id": "6c9986b1572e5a05",
+        "official_anomaly": "UNKNOWN",
+        "cause_code": "unsupported_inline_asm",
+        "completed": true,
+        "status": "unknown"
+      },
+      "unreach-call": {
+        "id": "3196a8cfbb51e642",
+        "official_anomaly": "UNKNOWN",
+        "cause_code": "unsupported_inline_asm",
+        "completed": true,
+        "status": "unknown"
+      },
+      "valid-memsafety": {
+        "id": "d073ab5da28b4015",
+        "official_anomaly": "UNKNOWN",
+        "cause_code": "unsupported_inline_asm",
+        "completed": true,
+        "status": "unknown"
+      }
+    }
+  },
+  {
+    "task": "c/ldv-races/race-1_2b-join.yml",
+    "family": "ldv-races",
+    "properties": {
+      "no-data-race": {
+        "id": "ef554033a807347f",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/ldv-races/race-1_3b-join.yml",
+    "family": "ldv-races",
+    "properties": {
+      "no-data-race": {
+        "id": "dea3da42957810c1",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/ldv-races/race-2_2b-container_of.yml",
+    "family": "ldv-races",
+    "properties": {
+      "no-data-race": {
+        "id": "c7136145b08cddeb",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/ldv-races/race-2_3b-container_of.yml",
+    "family": "ldv-races",
+    "properties": {
+      "no-data-race": {
+        "id": "9856b6d894aca5bf",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/ldv-races/race-2_4b-container_of.yml",
+    "family": "ldv-races",
+    "properties": {
+      "no-data-race": {
+        "id": "745d0444d2a8e77c",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/ldv-races/race-2_5b-container_of.yml",
+    "family": "ldv-races",
+    "properties": {
+      "no-data-race": {
+        "id": "4627d77f50d4f840",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/ldv-races/race-3_2b-container_of-global.yml",
+    "family": "ldv-races",
+    "properties": {
+      "no-data-race": {
+        "id": "269f68cf7c96e0b1",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/ldv-races/race-4_2-thread_local_vars.yml",
+    "family": "ldv-races",
+    "properties": {
+      "no-data-race": {
+        "id": "efa35e74d5aeec51",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/libvsync/arraylock.yml",
+    "family": "libvsync",
+    "properties": {
+      "no-data-race": {
+        "id": "7b87e02f1e1cf64f",
+        "official_anomaly": "UNKNOWN",
+        "cause_code": "unsupported_inline_asm",
+        "completed": true,
+        "status": "unknown"
+      },
+      "no-overflow": {
+        "id": "dac350b902ff9cf2",
+        "official_anomaly": "UNKNOWN",
+        "cause_code": "unsupported_inline_asm",
+        "completed": true,
+        "status": "unknown"
+      },
+      "unreach-call": {
+        "id": "c4a7b37cfdd0e240",
+        "official_anomaly": "UNKNOWN",
+        "cause_code": "unsupported_inline_asm",
+        "completed": true,
+        "status": "unknown"
+      },
+      "valid-memsafety": {
+        "id": "345ca863087cc579",
+        "official_anomaly": "UNKNOWN",
+        "cause_code": "unsupported_inline_asm",
+        "completed": true,
+        "status": "unknown"
+      }
+    }
+  },
+  {
+    "task": "c/libvsync/bounded_mpmc_check_empty.yml",
+    "family": "libvsync",
+    "properties": {
+      "valid-memsafety": {
+        "id": "37dc1deca8dc152a",
+        "official_anomaly": "UNKNOWN",
+        "cause_code": "unsupported_inline_asm",
+        "completed": true,
+        "status": "unknown"
+      }
+    }
+  },
+  {
+    "task": "c/libvsync/bounded_mpmc_check_full.yml",
+    "family": "libvsync",
+    "properties": {
+      "no-data-race": {
+        "id": "808fb34863400126",
+        "official_anomaly": "UNKNOWN",
+        "cause_code": "unsupported_inline_asm",
+        "completed": true,
+        "status": "unknown"
+      },
+      "unreach-call": {
+        "id": "140f163007de41ac",
+        "official_anomaly": "UNKNOWN",
+        "cause_code": "unsupported_inline_asm",
+        "completed": true,
+        "status": "unknown"
+      },
+      "valid-memsafety": {
+        "id": "dffee441fb86e414",
+        "official_anomaly": "UNKNOWN",
+        "cause_code": "unsupported_inline_asm",
+        "completed": true,
+        "status": "unknown"
+      }
+    }
+  },
+  {
+    "task": "c/libvsync/bounded_spsc.yml",
+    "family": "libvsync",
+    "properties": {
+      "no-data-race": {
+        "id": "afdcb1257b81f2fc",
+        "official_anomaly": "UNKNOWN",
+        "cause_code": "unsupported_inline_asm",
+        "completed": true,
+        "status": "unknown"
+      }
+    }
+  },
+  {
+    "task": "c/libvsync/caslock.yml",
+    "family": "libvsync",
+    "properties": {
+      "no-data-race": {
+        "id": "3fa15ce8602c1eab",
+        "official_anomaly": "UNKNOWN",
+        "cause_code": "unsupported_inline_asm",
+        "completed": true,
+        "status": "unknown"
+      }
+    }
+  },
+  {
+    "task": "c/libvsync/clhlock.yml",
+    "family": "libvsync",
+    "properties": {
+      "valid-memsafety": {
+        "id": "e82e070bad171ec9",
+        "official_anomaly": "UNKNOWN",
+        "cause_code": "unsupported_inline_asm",
+        "completed": true,
+        "status": "unknown"
+      }
+    }
+  },
+  {
+    "task": "c/libvsync/cnalock.yml",
+    "family": "libvsync",
+    "properties": {
+      "no-data-race": {
+        "id": "11734446a7bb0a58",
+        "official_anomaly": "UNKNOWN",
+        "cause_code": "unsupported_inline_asm",
+        "completed": true,
+        "status": "unknown"
+      },
+      "no-overflow": {
+        "id": "d92b43f64a63c043",
+        "official_anomaly": "UNKNOWN",
+        "cause_code": "unsupported_inline_asm",
+        "completed": true,
+        "status": "unknown"
+      },
+      "unreach-call": {
+        "id": "3c55604a272c915d",
+        "official_anomaly": "UNKNOWN",
+        "cause_code": "unsupported_inline_asm",
+        "completed": true,
+        "status": "unknown"
+      },
+      "valid-memsafety": {
+        "id": "616d6dc45f31ef49",
+        "official_anomaly": "UNKNOWN",
+        "cause_code": "unsupported_inline_asm",
+        "completed": true,
+        "status": "unknown"
+      }
+    }
+  },
+  {
+    "task": "c/libvsync/hclhlock.yml",
+    "family": "libvsync",
+    "properties": {
+      "no-data-race": {
+        "id": "7a9d68cef4976c38",
+        "official_anomaly": "UNKNOWN",
+        "cause_code": "unsupported_inline_asm",
+        "completed": true,
+        "status": "unknown"
+      },
+      "no-overflow": {
+        "id": "2439c3858f5fb1d3",
+        "official_anomaly": "UNKNOWN",
+        "cause_code": "unsupported_inline_asm",
+        "completed": true,
+        "status": "unknown"
+      },
+      "unreach-call": {
+        "id": "46a5c229f42474ab",
+        "official_anomaly": "UNKNOWN",
+        "cause_code": "unsupported_inline_asm",
+        "completed": true,
+        "status": "unknown"
+      },
+      "valid-memsafety": {
+        "id": "d0a67d0ef59a4813",
+        "official_anomaly": "UNKNOWN",
+        "cause_code": "unsupported_inline_asm",
+        "completed": true,
+        "status": "unknown"
+      }
+    }
+  },
+  {
+    "task": "c/libvsync/hemlock.yml",
+    "family": "libvsync",
+    "properties": {
+      "no-data-race": {
+        "id": "c89c337af294d620",
+        "official_anomaly": "UNKNOWN",
+        "cause_code": "unsupported_inline_asm",
+        "completed": true,
+        "status": "unknown"
+      }
+    }
+  },
+  {
+    "task": "c/libvsync/hmcslock.yml",
+    "family": "libvsync",
+    "properties": {
+      "no-data-race": {
+        "id": "6daaf148db366fe2",
+        "official_anomaly": "UNKNOWN",
+        "cause_code": "unsupported_inline_asm",
+        "completed": true,
+        "status": "unknown"
+      },
+      "no-overflow": {
+        "id": "6694a68898664973",
+        "official_anomaly": "UNKNOWN",
+        "cause_code": "unsupported_inline_asm",
+        "completed": true,
+        "status": "unknown"
+      },
+      "unreach-call": {
+        "id": "b380d4b97158d9ff",
+        "official_anomaly": "UNKNOWN",
+        "cause_code": "unsupported_inline_asm",
+        "completed": true,
+        "status": "unknown"
+      },
+      "valid-memsafety": {
+        "id": "c5777f5ded9657e2",
+        "official_anomaly": "UNKNOWN",
+        "cause_code": "unsupported_inline_asm",
+        "completed": true,
+        "status": "unknown"
+      }
+    }
+  },
+  {
+    "task": "c/libvsync/mcslock.yml",
+    "family": "libvsync",
+    "properties": {
+      "no-data-race": {
+        "id": "1053726b7c9d2e1f",
+        "official_anomaly": "UNKNOWN",
+        "cause_code": "unsupported_inline_asm",
+        "completed": true,
+        "status": "unknown"
+      },
+      "no-overflow": {
+        "id": "3e81d119df4d7eb6",
+        "official_anomaly": "UNKNOWN",
+        "cause_code": "unsupported_inline_asm",
+        "completed": true,
+        "status": "unknown"
+      },
+      "unreach-call": {
+        "id": "9218fc5f93e57ad9",
+        "official_anomaly": "UNKNOWN",
+        "cause_code": "unsupported_inline_asm",
+        "completed": true,
+        "status": "unknown"
+      },
+      "valid-memsafety": {
+        "id": "8485635697fe5b9e",
+        "official_anomaly": "UNKNOWN",
+        "cause_code": "unsupported_inline_asm",
+        "completed": true,
+        "status": "unknown"
+      }
+    }
+  },
+  {
+    "task": "c/libvsync/rec_mcslock.yml",
+    "family": "libvsync",
+    "properties": {
+      "no-data-race": {
+        "id": "996af9a061912907",
+        "official_anomaly": "UNKNOWN",
+        "cause_code": "unsupported_inline_asm",
+        "completed": true,
+        "status": "unknown"
+      },
+      "no-overflow": {
+        "id": "a2afd308e4ae2218",
+        "official_anomaly": "UNKNOWN",
+        "cause_code": "unsupported_inline_asm",
+        "completed": true,
+        "status": "unknown"
+      },
+      "unreach-call": {
+        "id": "a56645eded1323e6",
+        "official_anomaly": "UNKNOWN",
+        "cause_code": "unsupported_inline_asm",
+        "completed": true,
+        "status": "unknown"
+      },
+      "valid-memsafety": {
+        "id": "bec35584c568798c",
+        "official_anomaly": "UNKNOWN",
+        "cause_code": "unsupported_inline_asm",
+        "completed": true,
+        "status": "unknown"
+      }
+    }
+  },
+  {
+    "task": "c/libvsync/rec_spinlock.yml",
+    "family": "libvsync",
+    "properties": {
+      "no-data-race": {
+        "id": "14816ae11c377d4e",
+        "official_anomaly": "UNKNOWN",
+        "cause_code": "unsupported_inline_asm",
+        "completed": true,
+        "status": "unknown"
+      }
+    }
+  },
+  {
+    "task": "c/libvsync/rec_ticketlock.yml",
+    "family": "libvsync",
+    "properties": {
+      "no-data-race": {
+        "id": "9fa3617f30887761",
+        "official_anomaly": "UNKNOWN",
+        "cause_code": "unsupported_inline_asm",
+        "completed": true,
+        "status": "unknown"
+      },
+      "no-overflow": {
+        "id": "8de27ff3a8a69c62",
+        "official_anomaly": "UNKNOWN",
+        "cause_code": "unsupported_inline_asm",
+        "completed": true,
+        "status": "unknown"
+      },
+      "unreach-call": {
+        "id": "08fc71507d67a851",
+        "official_anomaly": "UNKNOWN",
+        "cause_code": "unsupported_inline_asm",
+        "completed": true,
+        "status": "unknown"
+      },
+      "valid-memsafety": {
+        "id": "ba0ad17a490ef80a",
+        "official_anomaly": "UNKNOWN",
+        "cause_code": "unsupported_inline_asm",
+        "completed": true,
+        "status": "unknown"
+      }
+    }
+  },
+  {
+    "task": "c/libvsync/rwlock.yml",
+    "family": "libvsync",
+    "properties": {
+      "no-data-race": {
+        "id": "88ccb6df9d62c6a9",
+        "official_anomaly": "UNKNOWN",
+        "cause_code": "unsupported_inline_asm",
+        "completed": true,
+        "status": "unknown"
+      },
+      "unreach-call": {
+        "id": "161e1447608becb6",
+        "official_anomaly": "UNKNOWN",
+        "cause_code": "unsupported_inline_asm",
+        "completed": true,
+        "status": "unknown"
+      },
+      "valid-memsafety": {
+        "id": "bf97f017d1629c92",
+        "official_anomaly": "UNKNOWN",
+        "cause_code": "unsupported_inline_asm",
+        "completed": true,
+        "status": "unknown"
+      }
+    }
+  },
+  {
+    "task": "c/libvsync/semaphore.yml",
+    "family": "libvsync",
+    "properties": {
+      "no-data-race": {
+        "id": "24ea7ec333405066",
+        "official_anomaly": "UNKNOWN",
+        "cause_code": "unsupported_inline_asm",
+        "completed": true,
+        "status": "unknown"
+      },
+      "unreach-call": {
+        "id": "0107ef5c58d95b0b",
+        "official_anomaly": "UNKNOWN",
+        "cause_code": "unsupported_inline_asm",
+        "completed": true,
+        "status": "unknown"
+      },
+      "valid-memsafety": {
+        "id": "a3355bcab49acbd3",
+        "official_anomaly": "UNKNOWN",
+        "cause_code": "unsupported_inline_asm",
+        "completed": true,
+        "status": "unknown"
+      }
+    }
+  },
+  {
+    "task": "c/libvsync/ticketlock.yml",
+    "family": "libvsync",
+    "properties": {
+      "no-data-race": {
+        "id": "0c15edd604e9edb8",
+        "official_anomaly": "UNKNOWN",
+        "cause_code": "unsupported_inline_asm",
+        "completed": true,
+        "status": "unknown"
+      },
+      "no-overflow": {
+        "id": "e92f7bbb56022aac",
+        "official_anomaly": "UNKNOWN",
+        "cause_code": "unsupported_inline_asm",
+        "completed": true,
+        "status": "unknown"
+      },
+      "unreach-call": {
+        "id": "7f6b163a79e47f05",
+        "official_anomaly": "UNKNOWN",
+        "cause_code": "unsupported_inline_asm",
+        "completed": true,
+        "status": "unknown"
+      },
+      "valid-memsafety": {
+        "id": "35786b0c2aa3a780",
+        "official_anomaly": "UNKNOWN",
+        "cause_code": "unsupported_inline_asm",
+        "completed": true,
+        "status": "unknown"
+      }
+    }
+  },
+  {
+    "task": "c/libvsync/ttaslock.yml",
+    "family": "libvsync",
+    "properties": {
+      "no-data-race": {
+        "id": "f6ea4f8a35321b08",
+        "official_anomaly": "UNKNOWN",
+        "cause_code": "unsupported_inline_asm",
+        "completed": true,
+        "status": "unknown"
+      },
+      "no-overflow": {
+        "id": "eab8507e5b241e26",
+        "official_anomaly": "UNKNOWN",
+        "cause_code": "unsupported_inline_asm",
+        "completed": true,
+        "status": "unknown"
+      },
+      "unreach-call": {
+        "id": "bf17dfe058fd889e",
+        "official_anomaly": "UNKNOWN",
+        "cause_code": "unsupported_inline_asm",
+        "completed": true,
+        "status": "unknown"
+      },
+      "valid-memsafety": {
+        "id": "16df810a7f65ce06",
+        "official_anomaly": "UNKNOWN",
+        "cause_code": "unsupported_inline_asm",
+        "completed": true,
+        "status": "unknown"
+      }
+    }
+  },
+  {
+    "task": "c/libvsync/twalock.yml",
+    "family": "libvsync",
+    "properties": {
+      "no-data-race": {
+        "id": "c14e864302594f8f",
+        "official_anomaly": "UNKNOWN",
+        "cause_code": "unsupported_inline_asm",
+        "completed": true,
+        "status": "unknown"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-C-DAC/pthread-demo-datarace-1.yml",
+    "family": "pthread-C-DAC",
+    "properties": {
+      "no-data-race": {
+        "id": "e91a16fb0b2a2cd9",
+        "official_anomaly": "TIMEOUT",
+        "cause_code": "cpu_limit",
+        "completed": true,
+        "status": "TIMEOUT"
+      },
+      "no-overflow": {
+        "id": "d3ca22ea0cadc011",
+        "official_anomaly": "TIMEOUT",
+        "cause_code": "cpu_limit",
+        "completed": true,
+        "status": "TIMEOUT"
+      },
+      "unreach-call": {
+        "id": "65fab661cb1eec03",
+        "official_anomaly": "TIMEOUT",
+        "cause_code": "cpu_limit",
+        "completed": true,
+        "status": "TIMEOUT"
+      },
+      "valid-memsafety": {
+        "id": "6cca2061d375bae2",
+        "official_anomaly": "",
+        "cause_code": "control",
+        "completed": true,
+        "status": "true"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-C-DAC/pthread-demo-datarace-2.yml",
+    "family": "pthread-C-DAC",
+    "properties": {
+      "no-data-race": {
+        "id": "62b24a7feb0244fb",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-C-DAC/pthread-demo-datarace-3.yml",
+    "family": "pthread-C-DAC",
+    "properties": {
+      "no-overflow": {
+        "id": "f9f0e86eb327016a",
+        "official_anomaly": "TIMEOUT",
+        "cause_code": "cpu_limit",
+        "completed": true,
+        "status": "TIMEOUT"
+      },
+      "unreach-call": {
+        "id": "3362cff50d1e9c59",
+        "official_anomaly": "correct-unconfirmed",
+        "cause_code": "semantic_validation_unconfirmed",
+        "completed": true,
+        "status": "false(unreach-call)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-C-DAC/pthread-finding-k-matches.yml",
+    "family": "pthread-C-DAC",
+    "properties": {
+      "no-data-race": {
+        "id": "7820b6be8689a409",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "no-overflow": {
+        "id": "d06d139945caead5",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "unreach-call": {
+        "id": "b31fc3017bb792fe",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "valid-memsafety": {
+        "id": "c9c81c5d7321a0d6",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-atomic/dekker-b-unfair.yml",
+    "family": "pthread-atomic",
+    "properties": {
+      "no-data-race": {
+        "id": "4ec6f62b137b33c3",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-atomic/dekker-b.yml",
+    "family": "pthread-atomic",
+    "properties": {
+      "no-data-race": {
+        "id": "5a509a7332603253",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-atomic/gcd-2.yml",
+    "family": "pthread-atomic",
+    "properties": {
+      "no-data-race": {
+        "id": "9d95bcf3b132bb8c",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-atomic/lamport-b.yml",
+    "family": "pthread-atomic",
+    "properties": {
+      "no-data-race": {
+        "id": "75daa7b2c8173a43",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-atomic/peterson-b.yml",
+    "family": "pthread-atomic",
+    "properties": {
+      "no-data-race": {
+        "id": "ce02aa123b9dcad5",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-atomic/qrcu-1.yml",
+    "family": "pthread-atomic",
+    "properties": {
+      "no-data-race": {
+        "id": "fa5d4d55e240e90d",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-atomic/qrcu-2.yml",
+    "family": "pthread-atomic",
+    "properties": {
+      "no-data-race": {
+        "id": "8bf063f1a14de95f",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-atomic/read_write_lock-1b.yml",
+    "family": "pthread-atomic",
+    "properties": {
+      "no-data-race": {
+        "id": "931b1bb001ff2b4d",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-atomic/read_write_lock-2b.yml",
+    "family": "pthread-atomic",
+    "properties": {
+      "no-data-race": {
+        "id": "d286c8d872f7e957",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-atomic/scull.yml",
+    "family": "pthread-atomic",
+    "properties": {
+      "no-data-race": {
+        "id": "5edfc78b958538e1",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-atomic/szymanski-b.yml",
+    "family": "pthread-atomic",
+    "properties": {
+      "no-data-race": {
+        "id": "de83381a0665c913",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-complex/bounded_buffer.yml",
+    "family": "pthread-complex",
+    "properties": {
+      "no-data-race": {
+        "id": "4f049c7641eea283",
+        "official_anomaly": "OUT OF MEMORY",
+        "cause_code": "memory_limit",
+        "completed": true,
+        "status": "OUT OF MEMORY"
+      },
+      "no-overflow": {
+        "id": "afe7d6bda12fd365",
+        "official_anomaly": "OUT OF MEMORY",
+        "cause_code": "memory_limit",
+        "completed": true,
+        "status": "OUT OF MEMORY"
+      },
+      "unreach-call": {
+        "id": "ebc03797364f655e",
+        "official_anomaly": "OUT OF MEMORY",
+        "cause_code": "memory_limit",
+        "completed": true,
+        "status": "OUT OF MEMORY"
+      },
+      "valid-memsafety": {
+        "id": "b9a9721a7b6002fc",
+        "official_anomaly": "UNKNOWN",
+        "cause_code": "value_set_assign_type_invariant",
+        "completed": true,
+        "status": "unknown"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-complex/elimination_backoff_stack-race.yml",
+    "family": "pthread-complex",
+    "properties": {
+      "no-data-race": {
+        "id": "250998c5d1577d24",
+        "official_anomaly": "OUT OF MEMORY",
+        "cause_code": "memory_limit",
+        "completed": true,
+        "status": "OUT OF MEMORY"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-complex/elimination_backoff_stack.yml",
+    "family": "pthread-complex",
+    "properties": {
+      "no-data-race": {
+        "id": "6c0008137388db9e",
+        "official_anomaly": "OUT OF MEMORY",
+        "cause_code": "memory_limit",
+        "completed": true,
+        "status": "OUT OF MEMORY"
+      },
+      "no-overflow": {
+        "id": "160c74f546f52fb0",
+        "official_anomaly": "OUT OF MEMORY",
+        "cause_code": "memory_limit",
+        "completed": true,
+        "status": "OUT OF MEMORY"
+      },
+      "unreach-call": {
+        "id": "191d31241fcea106",
+        "official_anomaly": "OUT OF MEMORY",
+        "cause_code": "memory_limit",
+        "completed": true,
+        "status": "OUT OF MEMORY"
+      },
+      "valid-memsafety": {
+        "id": "edfed649d12c3275",
+        "official_anomaly": "OUT OF MEMORY",
+        "cause_code": "memory_limit",
+        "completed": true,
+        "status": "OUT OF MEMORY"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-complex/workstealqueue_mutex-1.yml",
+    "family": "pthread-complex",
+    "properties": {
+      "no-data-race": {
+        "id": "1429a95e93e34db8",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-complex/workstealqueue_mutex-2.yml",
+    "family": "pthread-complex",
+    "properties": {
+      "no-data-race": {
+        "id": "42fed94aed92f868",
+        "official_anomaly": "",
+        "cause_code": "control",
+        "completed": true,
+        "status": "true"
+      },
+      "no-overflow": {
+        "id": "ae0c006cc12ac9f1",
+        "official_anomaly": "",
+        "cause_code": "control",
+        "completed": true,
+        "status": "true"
+      },
+      "unreach-call": {
+        "id": "4a1c3d1fa852554c",
+        "official_anomaly": "wrong",
+        "cause_code": "wrong_verdict_root_unconfirmed",
+        "completed": true,
+        "status": "false(unreach-call)"
+      },
+      "valid-memsafety": {
+        "id": "7a25d8cf65b270b4",
+        "official_anomaly": "",
+        "cause_code": "control",
+        "completed": true,
+        "status": "true"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-deagle/airline-10.yml",
+    "family": "pthread-deagle",
+    "properties": {
+      "no-data-race": {
+        "id": "a13ddc4b430b71a8",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-deagle/airline-15.yml",
+    "family": "pthread-deagle",
+    "properties": {
+      "no-data-race": {
+        "id": "6a45f4c161b4d6cd",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-deagle/airline-20.yml",
+    "family": "pthread-deagle",
+    "properties": {
+      "no-data-race": {
+        "id": "172decb46e149e53",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-deagle/airline-25.yml",
+    "family": "pthread-deagle",
+    "properties": {
+      "no-data-race": {
+        "id": "aa7335087b1a3381",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-deagle/airline-5.yml",
+    "family": "pthread-deagle",
+    "properties": {
+      "no-data-race": {
+        "id": "a242a28ab732e0e7",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-deagle/floating_read-10.yml",
+    "family": "pthread-deagle",
+    "properties": {
+      "no-data-race": {
+        "id": "dbb7b42d3cb4074b",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-deagle/floating_read-15.yml",
+    "family": "pthread-deagle",
+    "properties": {
+      "no-data-race": {
+        "id": "1bc6a9cf817cc929",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-deagle/floating_read-20.yml",
+    "family": "pthread-deagle",
+    "properties": {
+      "no-data-race": {
+        "id": "26dbb135679010ae",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-deagle/floating_read-25.yml",
+    "family": "pthread-deagle",
+    "properties": {
+      "no-data-race": {
+        "id": "d138b54017ad7a19",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-deagle/floating_read-5.yml",
+    "family": "pthread-deagle",
+    "properties": {
+      "no-data-race": {
+        "id": "5dc03a40a191f787",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-deagle/reorder_c11_bad-10.yml",
+    "family": "pthread-deagle",
+    "properties": {
+      "no-data-race": {
+        "id": "896215dd3deca79e",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-deagle/reorder_c11_bad-20.yml",
+    "family": "pthread-deagle",
+    "properties": {
+      "no-data-race": {
+        "id": "30c6c7373559298b",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-deagle/reorder_c11_bad-30.yml",
+    "family": "pthread-deagle",
+    "properties": {
+      "no-data-race": {
+        "id": "3ce5b3219c52e179",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-deagle/reorder_c11_bad-40.yml",
+    "family": "pthread-deagle",
+    "properties": {
+      "no-data-race": {
+        "id": "1ba5e8fd9a292915",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-deagle/reorder_c11_bad-50.yml",
+    "family": "pthread-deagle",
+    "properties": {
+      "no-data-race": {
+        "id": "afb4ad0607f691f7",
+        "official_anomaly": "TIMEOUT",
+        "cause_code": "cpu_limit",
+        "completed": true,
+        "status": "TIMEOUT"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-deagle/reorder_c11_good-10.yml",
+    "family": "pthread-deagle",
+    "properties": {
+      "no-data-race": {
+        "id": "b4685e229cf62314",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-deagle/reorder_c11_good-20.yml",
+    "family": "pthread-deagle",
+    "properties": {
+      "no-data-race": {
+        "id": "4808abcf1a5b792d",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-deagle/reorder_c11_good-30.yml",
+    "family": "pthread-deagle",
+    "properties": {
+      "no-data-race": {
+        "id": "b5fd8ed909e56fbd",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-deagle/reorder_c11_good-40.yml",
+    "family": "pthread-deagle",
+    "properties": {
+      "no-data-race": {
+        "id": "c8a3abf93639b1e7",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-deagle/reorder_c11_good-50.yml",
+    "family": "pthread-deagle",
+    "properties": {
+      "no-data-race": {
+        "id": "fb4e6f0bb314c3d4",
+        "official_anomaly": "TIMEOUT",
+        "cause_code": "cpu_limit",
+        "completed": true,
+        "status": "TIMEOUT"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-divine/barrier_2t.yml",
+    "family": "pthread-divine",
+    "properties": {
+      "no-data-race": {
+        "id": "55ea67cc51445cf2",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-divine/barrier_3t.yml",
+    "family": "pthread-divine",
+    "properties": {
+      "no-data-race": {
+        "id": "bbb518632548f546",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-divine/condvar.yml",
+    "family": "pthread-divine",
+    "properties": {
+      "no-data-race": {
+        "id": "496a3840fe100700",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-divine/condvar_spurious_wakeup.yml",
+    "family": "pthread-divine",
+    "properties": {
+      "no-data-race": {
+        "id": "6653f69367729398",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-divine/divinefifo-bug_1w1r.yml",
+    "family": "pthread-divine",
+    "properties": {
+      "no-data-race": {
+        "id": "5ffbe74d2581e254",
+        "official_anomaly": "OUT OF MEMORY",
+        "cause_code": "memory_limit",
+        "completed": true,
+        "status": "OUT OF MEMORY"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-divine/divinefifo_1w1r.yml",
+    "family": "pthread-divine",
+    "properties": {
+      "no-data-race": {
+        "id": "6568f5e83213be4c",
+        "official_anomaly": "OUT OF MEMORY",
+        "cause_code": "memory_limit",
+        "completed": true,
+        "status": "OUT OF MEMORY"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-divine/one_time_barrier_2t.yml",
+    "family": "pthread-divine",
+    "properties": {
+      "no-data-race": {
+        "id": "44c2cb34f0b9cfff",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-divine/one_time_barrier_3t.yml",
+    "family": "pthread-divine",
+    "properties": {
+      "no-data-race": {
+        "id": "3366754a2834c0b9",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-divine/one_time_barrier_twice_2t.yml",
+    "family": "pthread-divine",
+    "properties": {
+      "no-data-race": {
+        "id": "948c36b9e2b71657",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-divine/one_time_barrier_twice_3t.yml",
+    "family": "pthread-divine",
+    "properties": {
+      "no-data-race": {
+        "id": "b2a458117ffacc1f",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-divine/ring_1w1r-1.yml",
+    "family": "pthread-divine",
+    "properties": {
+      "no-data-race": {
+        "id": "82bd5c6e13ec7c39",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-divine/ring_1w1r-2.yml",
+    "family": "pthread-divine",
+    "properties": {
+      "no-data-race": {
+        "id": "f37ec63c69abf442",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-divine/ring_2w1r-1.yml",
+    "family": "pthread-divine",
+    "properties": {
+      "no-data-race": {
+        "id": "4673ae3d1b904749",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-divine/ring_2w1r-2.yml",
+    "family": "pthread-divine",
+    "properties": {
+      "no-data-race": {
+        "id": "103018ad0b6de699",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-divine/tls_destructor_worker.yml",
+    "family": "pthread-divine",
+    "properties": {
+      "no-data-race": {
+        "id": "9c4cf74ea3ba3c4b",
+        "official_anomaly": "UNKNOWN",
+        "cause_code": "unsupported_tls_destructor",
+        "completed": true,
+        "status": "unknown"
+      },
+      "no-overflow": {
+        "id": "cfb58e2939c163bc",
+        "official_anomaly": "UNKNOWN",
+        "cause_code": "unsupported_tls_destructor",
+        "completed": true,
+        "status": "unknown"
+      },
+      "unreach-call": {
+        "id": "a422c9752a16c7b4",
+        "official_anomaly": "UNKNOWN",
+        "cause_code": "unsupported_tls_destructor",
+        "completed": true,
+        "status": "unknown"
+      },
+      "valid-memsafety": {
+        "id": "b403e0911bd905c5",
+        "official_anomaly": "UNKNOWN",
+        "cause_code": "unsupported_tls_destructor",
+        "completed": true,
+        "status": "unknown"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-driver-races/char_generic_nvram_read_nvram_write_nvram-race.yml",
+    "family": "pthread-driver-races",
+    "properties": {
+      "no-data-race": {
+        "id": "4b3eec995e6b42c2",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-driver-races/char_generic_nvram_read_nvram_write_nvram.yml",
+    "family": "pthread-driver-races",
+    "properties": {
+      "unreach-call": {
+        "id": "b23b08ad0061338d",
+        "official_anomaly": "correct-unconfirmed",
+        "cause_code": "semantic_validation_unconfirmed",
+        "completed": true,
+        "status": "false(unreach-call)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-driver-races/char_pc8736x_gpio_pc8736x_gpio_change_pc8736x_gpio_current-race.yml",
+    "family": "pthread-driver-races",
+    "properties": {
+      "no-data-race": {
+        "id": "c7ca236ae7dc50d9",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-driver-races/char_pc8736x_gpio_pc8736x_gpio_change_pc8736x_gpio_set-race.yml",
+    "family": "pthread-driver-races",
+    "properties": {
+      "no-data-race": {
+        "id": "4f6f58b2476f8852",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-driver-races/char_pc8736x_gpio_pc8736x_gpio_current_pc8736x_gpio_set-race.yml",
+    "family": "pthread-driver-races",
+    "properties": {
+      "no-data-race": {
+        "id": "738ecc77e56cd549",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-ext/01_inc.yml",
+    "family": "pthread-ext",
+    "properties": {
+      "no-data-race": {
+        "id": "5eb704991ef7f125",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-ext/04_incdec_cas-race.yml",
+    "family": "pthread-ext",
+    "properties": {
+      "no-data-race": {
+        "id": "bdb87cd7066a7e87",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-ext/05_tas.yml",
+    "family": "pthread-ext",
+    "properties": {
+      "no-data-race": {
+        "id": "a5274cf89a678dee",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-ext/06_ticket.yml",
+    "family": "pthread-ext",
+    "properties": {
+      "no-data-race": {
+        "id": "8122a008b4c7b527",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-ext/07_rand.yml",
+    "family": "pthread-ext",
+    "properties": {
+      "no-data-race": {
+        "id": "6377f95ac101d040",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-ext/08_rand_cas-race.yml",
+    "family": "pthread-ext",
+    "properties": {
+      "no-data-race": {
+        "id": "e6dc45862d37b000",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-ext/09_fmaxsym-race.yml",
+    "family": "pthread-ext",
+    "properties": {
+      "no-data-race": {
+        "id": "16928a0d6dbddba3",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-ext/10_fmaxsym_cas.yml",
+    "family": "pthread-ext",
+    "properties": {
+      "no-data-race": {
+        "id": "b2ac6ea9ff6e39db",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-ext/11_fmaxsymopt-race.yml",
+    "family": "pthread-ext",
+    "properties": {
+      "no-data-race": {
+        "id": "d6d0f8d0cd6a6379",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-ext/12_fmaxsymopt_cas.yml",
+    "family": "pthread-ext",
+    "properties": {
+      "no-data-race": {
+        "id": "1ae3a069ad8e8e88",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-ext/13_unverif.yml",
+    "family": "pthread-ext",
+    "properties": {
+      "no-data-race": {
+        "id": "3049489ebd7790df",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-ext/17_szymanski.yml",
+    "family": "pthread-ext",
+    "properties": {
+      "no-data-race": {
+        "id": "bc97d520800104fb",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-ext/23_lu-fig2.fixed.yml",
+    "family": "pthread-ext",
+    "properties": {
+      "no-data-race": {
+        "id": "02d946269655e3c3",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-ext/25_stack-race.yml",
+    "family": "pthread-ext",
+    "properties": {
+      "no-data-race": {
+        "id": "795a0a3277801292",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-ext/25_stack.yml",
+    "family": "pthread-ext",
+    "properties": {
+      "no-data-race": {
+        "id": "04b58c85173d9479",
+        "official_anomaly": "TIMEOUT",
+        "cause_code": "cpu_limit",
+        "completed": true,
+        "status": "TIMEOUT"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-ext/25_stack_longer-1-race.yml",
+    "family": "pthread-ext",
+    "properties": {
+      "no-data-race": {
+        "id": "ad1a4d7dcb4b5a28",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-ext/25_stack_longer-2-race.yml",
+    "family": "pthread-ext",
+    "properties": {
+      "no-data-race": {
+        "id": "71b3459b355293fe",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-ext/25_stack_longer-2.yml",
+    "family": "pthread-ext",
+    "properties": {
+      "no-data-race": {
+        "id": "9f1428c394f21856",
+        "official_anomaly": "TIMEOUT",
+        "cause_code": "cpu_limit",
+        "completed": true,
+        "status": "TIMEOUT"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-ext/25_stack_longest-1-race.yml",
+    "family": "pthread-ext",
+    "properties": {
+      "no-data-race": {
+        "id": "e143f0cfbd0d1d00",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-ext/25_stack_longest-1.yml",
+    "family": "pthread-ext",
+    "properties": {
+      "no-data-race": {
+        "id": "3bbcf5f598f873f4",
+        "official_anomaly": "TIMEOUT",
+        "cause_code": "cpu_limit",
+        "completed": true,
+        "status": "TIMEOUT"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-ext/25_stack_longest-2-race.yml",
+    "family": "pthread-ext",
+    "properties": {
+      "no-data-race": {
+        "id": "df568c57af1a86e5",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-ext/26_stack_cas-race.yml",
+    "family": "pthread-ext",
+    "properties": {
+      "no-data-race": {
+        "id": "46cb40a8eb019847",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-ext/26_stack_cas_longer-1-race.yml",
+    "family": "pthread-ext",
+    "properties": {
+      "no-data-race": {
+        "id": "6473d677e66c9ff1",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-ext/26_stack_cas_longer-2-race.yml",
+    "family": "pthread-ext",
+    "properties": {
+      "no-data-race": {
+        "id": "f186c314201214e4",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-ext/26_stack_cas_longest-1-race.yml",
+    "family": "pthread-ext",
+    "properties": {
+      "no-data-race": {
+        "id": "7d264cc94bb4114f",
+        "official_anomaly": "OUT OF MEMORY",
+        "cause_code": "memory_limit",
+        "completed": true,
+        "status": "OUT OF MEMORY"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-ext/26_stack_cas_longest-1.yml",
+    "family": "pthread-ext",
+    "properties": {
+      "no-data-race": {
+        "id": "e27a952459a794fc",
+        "official_anomaly": "OUT OF MEMORY",
+        "cause_code": "memory_limit",
+        "completed": true,
+        "status": "OUT OF MEMORY"
+      },
+      "no-overflow": {
+        "id": "47f1891fe8516b21",
+        "official_anomaly": "OUT OF MEMORY",
+        "cause_code": "memory_limit",
+        "completed": true,
+        "status": "OUT OF MEMORY"
+      },
+      "unreach-call": {
+        "id": "e0feb01ec575efed",
+        "official_anomaly": "OUT OF MEMORY",
+        "cause_code": "memory_limit",
+        "completed": true,
+        "status": "OUT OF MEMORY"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-ext/26_stack_cas_longest-2-race.yml",
+    "family": "pthread-ext",
+    "properties": {
+      "no-data-race": {
+        "id": "a0612a4a5444c963",
+        "official_anomaly": "OUT OF MEMORY",
+        "cause_code": "memory_limit",
+        "completed": true,
+        "status": "OUT OF MEMORY"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-ext/26_stack_cas_longest-2.yml",
+    "family": "pthread-ext",
+    "properties": {
+      "no-data-race": {
+        "id": "eccd5826a0675e63",
+        "official_anomaly": "OUT OF MEMORY",
+        "cause_code": "memory_limit",
+        "completed": true,
+        "status": "OUT OF MEMORY"
+      },
+      "no-overflow": {
+        "id": "ecd35492ffaac374",
+        "official_anomaly": "OUT OF MEMORY",
+        "cause_code": "memory_limit",
+        "completed": true,
+        "status": "OUT OF MEMORY"
+      },
+      "unreach-call": {
+        "id": "735f7cefdcea8b98",
+        "official_anomaly": "OUT OF MEMORY",
+        "cause_code": "memory_limit",
+        "completed": true,
+        "status": "OUT OF MEMORY"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-ext/27_Boop_simple_vf.yml",
+    "family": "pthread-ext",
+    "properties": {
+      "no-data-race": {
+        "id": "49ed1659ca2be3f8",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-ext/30_Function_Pointer3_vs.yml",
+    "family": "pthread-ext",
+    "properties": {
+      "no-data-race": {
+        "id": "e133acda25eab4ec",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-ext/32_pthread5_vs.yml",
+    "family": "pthread-ext",
+    "properties": {
+      "no-data-race": {
+        "id": "b879651f628ac276",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-ext/33_double_lock_p1_vs.yml",
+    "family": "pthread-ext",
+    "properties": {
+      "no-data-race": {
+        "id": "0b56829cb54769ad",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-ext/34_double_lock_p2_vs.yml",
+    "family": "pthread-ext",
+    "properties": {
+      "no-data-race": {
+        "id": "d642d6394ad48a09",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-ext/36_stack_cas_p0_vs_concur-race.yml",
+    "family": "pthread-ext",
+    "properties": {
+      "no-data-race": {
+        "id": "fa6a438bc0c23726",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-ext/37_stack_lock_p0_vs_concur-race.yml",
+    "family": "pthread-ext",
+    "properties": {
+      "no-data-race": {
+        "id": "0117b9c2bed20f9c",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-ext/38_rand_cas_vs_concur.yml",
+    "family": "pthread-ext",
+    "properties": {
+      "no-data-race": {
+        "id": "2389d1081279405f",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-ext/39_rand_lock_p0_vs-b.yml",
+    "family": "pthread-ext",
+    "properties": {
+      "no-data-race": {
+        "id": "eef6f5cc89d2e509",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-ext/40_barrier_vf-b.yml",
+    "family": "pthread-ext",
+    "properties": {
+      "no-data-race": {
+        "id": "4d48fb38b978d157",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-ext/41_FreeBSD_abd_kbd_sliced.yml",
+    "family": "pthread-ext",
+    "properties": {
+      "no-data-race": {
+        "id": "66bdbcbda973877b",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-ext/42_FreeBSD_rdma_addr_sliced.yml",
+    "family": "pthread-ext",
+    "properties": {
+      "no-data-race": {
+        "id": "5821139de3571a94",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-ext/43_NetBSD_sysmon_power_sliced-pthread.yml",
+    "family": "pthread-ext",
+    "properties": {
+      "no-data-race": {
+        "id": "06fd3dac07dd9dd5",
+        "official_anomaly": "TIMEOUT",
+        "cause_code": "cpu_limit",
+        "completed": true,
+        "status": "TIMEOUT"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-ext/43_NetBSD_sysmon_power_sliced.yml",
+    "family": "pthread-ext",
+    "properties": {
+      "no-data-race": {
+        "id": "8d215103305ec7b8",
+        "official_anomaly": "TIMEOUT",
+        "cause_code": "cpu_limit",
+        "completed": true,
+        "status": "TIMEOUT"
+      },
+      "unreach-call": {
+        "id": "d8c6564cb499eae9",
+        "official_anomaly": "TIMEOUT",
+        "cause_code": "cpu_limit",
+        "completed": true,
+        "status": "TIMEOUT"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-ext/43_NetBSD_sysmon_power_sliced_2.yml",
+    "family": "pthread-ext",
+    "properties": {
+      "no-data-race": {
+        "id": "3162a075107a70a1",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-ext/44_Solaris_space_map_sliced.yml",
+    "family": "pthread-ext",
+    "properties": {
+      "no-data-race": {
+        "id": "fb5922fb284eea58",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-ext/45_monabsex1_vs-b.yml",
+    "family": "pthread-ext",
+    "properties": {
+      "no-data-race": {
+        "id": "8eba4e4a565b3897",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-ext/46_monabsex2_vs-b.yml",
+    "family": "pthread-ext",
+    "properties": {
+      "no-data-race": {
+        "id": "556822a36c905656",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-ext/47_ticket_lock_hc_backoff_vs.yml",
+    "family": "pthread-ext",
+    "properties": {
+      "no-data-race": {
+        "id": "32011ebdd9635c45",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-ext/48_ticket_lock_low_contention_vs-b.yml",
+    "family": "pthread-ext",
+    "properties": {
+      "no-data-race": {
+        "id": "92f8a54d0c0db022",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-lit/fk2012.yml",
+    "family": "pthread-lit",
+    "properties": {
+      "no-data-race": {
+        "id": "719dda72512b65f7",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-lit/fkp2013-1.yml",
+    "family": "pthread-lit",
+    "properties": {
+      "no-data-race": {
+        "id": "e1e54d524414f7c4",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-lit/fkp2013-2.yml",
+    "family": "pthread-lit",
+    "properties": {
+      "no-data-race": {
+        "id": "a7913df772ac95a6",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-lit/fkp2013_variant-1.yml",
+    "family": "pthread-lit",
+    "properties": {
+      "no-data-race": {
+        "id": "c0939a8caa5180f3",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-lit/fkp2013_variant-2.yml",
+    "family": "pthread-lit",
+    "properties": {
+      "no-data-race": {
+        "id": "87a5b46538831142",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-lit/fkp2014.yml",
+    "family": "pthread-lit",
+    "properties": {
+      "no-data-race": {
+        "id": "bad3507bbf310c0f",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-lit/qw2004-1.yml",
+    "family": "pthread-lit",
+    "properties": {
+      "no-data-race": {
+        "id": "bb674f97cf5d91f7",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-lit/qw2004-2.yml",
+    "family": "pthread-lit",
+    "properties": {
+      "no-data-race": {
+        "id": "4fb622783d9a7cb2",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-lit/qw2004_variant.yml",
+    "family": "pthread-lit",
+    "properties": {
+      "no-data-race": {
+        "id": "1ceec84a313c8b3f",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-lit/sssc12_variant-2.yml",
+    "family": "pthread-lit",
+    "properties": {
+      "valid-memsafety": {
+        "id": "ed767ea03be34256",
+        "official_anomaly": "correct-unconfirmed",
+        "cause_code": "semantic_validation_unconfirmed",
+        "completed": true,
+        "status": "false(valid-deref)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-memsafety/fillarray.yml",
+    "family": "pthread-memsafety",
+    "properties": {
+      "valid-memsafety": {
+        "id": "36588ce485685d3c",
+        "official_anomaly": "correct-unconfirmed",
+        "cause_code": "semantic_validation_unconfirmed",
+        "completed": true,
+        "status": "false(valid-deref)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-memsafety/fillarray1.yml",
+    "family": "pthread-memsafety",
+    "properties": {
+      "valid-memsafety": {
+        "id": "8581a081380c8419",
+        "official_anomaly": "witness invalid",
+        "cause_code": "empty_graphml_source_location",
+        "completed": true,
+        "status": "false(valid-deref)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-memsafety/list1.yml",
+    "family": "pthread-memsafety",
+    "properties": {
+      "valid-memsafety": {
+        "id": "643ec04b71829a38",
+        "official_anomaly": "wrong",
+        "cause_code": "wrong_verdict_root_unconfirmed",
+        "completed": true,
+        "status": "true"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-nondet/nondet-array-1.yml",
+    "family": "pthread-nondet",
+    "properties": {
+      "no-data-race": {
+        "id": "b057652b285d14b9",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-nondet/nondet-array-2.yml",
+    "family": "pthread-nondet",
+    "properties": {
+      "no-data-race": {
+        "id": "94584a047d2f8ca8",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-nondet/nondet-loop-bound-1.yml",
+    "family": "pthread-nondet",
+    "properties": {
+      "no-data-race": {
+        "id": "60668180dae4af62",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-nondet/nondet-loop-bound-2.yml",
+    "family": "pthread-nondet",
+    "properties": {
+      "no-data-race": {
+        "id": "9103cc74d015d188",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-nondet/nondet-loop-bound-variant-1.yml",
+    "family": "pthread-nondet",
+    "properties": {
+      "no-data-race": {
+        "id": "10b689d0dbb0fe6f",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-nondet/nondet-loop-bound-variant-2.yml",
+    "family": "pthread-nondet",
+    "properties": {
+      "no-data-race": {
+        "id": "bb6fa814488cb7ff",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-race-challenges/per-thread-index-bitmask-race-2.yml",
+    "family": "pthread-race-challenges",
+    "properties": {
+      "no-data-race": {
+        "id": "52c83cc8b458dacf",
+        "official_anomaly": "TIMEOUT",
+        "cause_code": "cpu_limit",
+        "completed": true,
+        "status": "TIMEOUT"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-race-challenges/per-thread-index-bitmask-race-3.yml",
+    "family": "pthread-race-challenges",
+    "properties": {
+      "no-data-race": {
+        "id": "c5d7ed484e8e88c9",
+        "official_anomaly": "TIMEOUT",
+        "cause_code": "cpu_limit",
+        "completed": true,
+        "status": "TIMEOUT"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-race-challenges/per-thread-index-bitmask-race.yml",
+    "family": "pthread-race-challenges",
+    "properties": {
+      "no-data-race": {
+        "id": "d2d9de525ba0926f",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-race-challenges/per-thread-index-bitmask.yml",
+    "family": "pthread-race-challenges",
+    "properties": {
+      "no-data-race": {
+        "id": "8e82f610dbd434c3",
+        "official_anomaly": "TIMEOUT",
+        "cause_code": "cpu_limit",
+        "completed": true,
+        "status": "TIMEOUT"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-race-challenges/thread-join-array-const-race-2.yml",
+    "family": "pthread-race-challenges",
+    "properties": {
+      "no-data-race": {
+        "id": "3b1d66f29d037062",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-race-challenges/thread-join-array-const-race-3.yml",
+    "family": "pthread-race-challenges",
+    "properties": {
+      "no-data-race": {
+        "id": "84aabc51b914e0c9",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-race-challenges/thread-join-array-const-race.yml",
+    "family": "pthread-race-challenges",
+    "properties": {
+      "no-data-race": {
+        "id": "b67a7ca0ae3f3ec4",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-race-challenges/thread-join-counter-inner-race-2.yml",
+    "family": "pthread-race-challenges",
+    "properties": {
+      "no-data-race": {
+        "id": "c9638f0eefef266e",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-race-challenges/thread-join-counter-inner-race-3.yml",
+    "family": "pthread-race-challenges",
+    "properties": {
+      "no-data-race": {
+        "id": "0d7355eaaa40bc26",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-race-challenges/thread-join-counter-inner-race-4.yml",
+    "family": "pthread-race-challenges",
+    "properties": {
+      "no-data-race": {
+        "id": "1e65eb0e7f79e035",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-race-challenges/thread-join-counter-inner-race-5.yml",
+    "family": "pthread-race-challenges",
+    "properties": {
+      "no-data-race": {
+        "id": "ad9c66e8b39ce087",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-race-challenges/thread-join-counter-inner-race.yml",
+    "family": "pthread-race-challenges",
+    "properties": {
+      "no-data-race": {
+        "id": "e7032f2465b711bb",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-race-challenges/thread-join-counter-outer-race-2.yml",
+    "family": "pthread-race-challenges",
+    "properties": {
+      "no-data-race": {
+        "id": "f7600b0d5a7102a9",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-race-challenges/thread-join-counter-outer-race-3.yml",
+    "family": "pthread-race-challenges",
+    "properties": {
+      "no-data-race": {
+        "id": "a90d3d6cd7c5e016",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-race-challenges/thread-join-counter-outer-race-4.yml",
+    "family": "pthread-race-challenges",
+    "properties": {
+      "no-data-race": {
+        "id": "2ea4b888d56f54b1",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-race-challenges/thread-join-counter-outer-race.yml",
+    "family": "pthread-race-challenges",
+    "properties": {
+      "no-data-race": {
+        "id": "4bbe9bb747353069",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-theta/unwind1-100.yml",
+    "family": "pthread-theta",
+    "properties": {
+      "unreach-call": {
+        "id": "15fbf61018a5dd49",
+        "official_anomaly": "wrong",
+        "cause_code": "false_true_from_incomplete_unwinding",
+        "completed": true,
+        "status": "true"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-theta/unwind2-100.yml",
+    "family": "pthread-theta",
+    "properties": {
+      "no-data-race": {
+        "id": "a6a98723f949a537",
+        "official_anomaly": "",
+        "cause_code": "control",
+        "completed": true,
+        "status": "true"
+      },
+      "unreach-call": {
+        "id": "3166c6eacc7f22c8",
+        "official_anomaly": "wrong",
+        "cause_code": "false_true_from_incomplete_unwinding",
+        "completed": true,
+        "status": "true"
+      }
+    }
+  },
+  {
+    "task": "c/pthread-theta/unwind3-100.yml",
+    "family": "pthread-theta",
+    "properties": {
+      "no-overflow": {
+        "id": "3f0a3910c4fa6eaa",
+        "official_anomaly": "TIMEOUT",
+        "cause_code": "cpu_limit",
+        "completed": true,
+        "status": "TIMEOUT"
+      },
+      "unreach-call": {
+        "id": "8646331291ec5bb0",
+        "official_anomaly": "TIMEOUT",
+        "cause_code": "cpu_limit",
+        "completed": true,
+        "status": "TIMEOUT"
+      },
+      "valid-memsafety": {
+        "id": "765f2739920b58ea",
+        "official_anomaly": "TIMEOUT",
+        "cause_code": "cpu_limit",
+        "completed": true,
+        "status": "TIMEOUT"
+      }
+    }
+  },
+  {
+    "task": "c/pthread/bigshot_p.yml",
+    "family": "pthread",
+    "properties": {
+      "no-data-race": {
+        "id": "3b9d5bcbc2999f29",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread/fib_safe-10-racy.yml",
+    "family": "pthread",
+    "properties": {
+      "no-data-race": {
+        "id": "72f10e7e59f8ac2c",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread/fib_safe-11-racy.yml",
+    "family": "pthread",
+    "properties": {
+      "no-data-race": {
+        "id": "772650f0eae4b0b8",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread/fib_safe-12-racy.yml",
+    "family": "pthread",
+    "properties": {
+      "no-data-race": {
+        "id": "bbdde99d0b2d32d5",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread/fib_safe-5-racy.yml",
+    "family": "pthread",
+    "properties": {
+      "no-data-race": {
+        "id": "3b8d164db1a60bd0",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread/fib_safe-6-racy.yml",
+    "family": "pthread",
+    "properties": {
+      "no-data-race": {
+        "id": "272b885ec1155cd1",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread/fib_safe-7-racy.yml",
+    "family": "pthread",
+    "properties": {
+      "no-data-race": {
+        "id": "bbee1e7b69f87a53",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread/fib_unsafe-10-racy.yml",
+    "family": "pthread",
+    "properties": {
+      "no-data-race": {
+        "id": "c397cb547a3e0e9a",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread/fib_unsafe-10.yml",
+    "family": "pthread",
+    "properties": {
+      "unreach-call": {
+        "id": "3db9e3a553d89732",
+        "official_anomaly": "correct-unconfirmed",
+        "cause_code": "semantic_validation_unconfirmed",
+        "completed": true,
+        "status": "false(unreach-call)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread/fib_unsafe-11-racy.yml",
+    "family": "pthread",
+    "properties": {
+      "no-data-race": {
+        "id": "711c6964ba43dc95",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread/fib_unsafe-11.yml",
+    "family": "pthread",
+    "properties": {
+      "unreach-call": {
+        "id": "5e470082ec75812c",
+        "official_anomaly": "correct-unconfirmed",
+        "cause_code": "semantic_validation_unconfirmed",
+        "completed": true,
+        "status": "false(unreach-call)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread/fib_unsafe-12-racy.yml",
+    "family": "pthread",
+    "properties": {
+      "no-data-race": {
+        "id": "1cae1627a350e890",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread/fib_unsafe-12.yml",
+    "family": "pthread",
+    "properties": {
+      "unreach-call": {
+        "id": "db931b5a24977cc0",
+        "official_anomaly": "correct-unconfirmed",
+        "cause_code": "semantic_validation_unconfirmed",
+        "completed": true,
+        "status": "false(unreach-call)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread/fib_unsafe-5-racy.yml",
+    "family": "pthread",
+    "properties": {
+      "no-data-race": {
+        "id": "7fbe83f12cb22942",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread/fib_unsafe-5.yml",
+    "family": "pthread",
+    "properties": {
+      "unreach-call": {
+        "id": "6664fd2d02a6919a",
+        "official_anomaly": "correct-unconfirmed",
+        "cause_code": "semantic_validation_unconfirmed",
+        "completed": true,
+        "status": "false(unreach-call)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread/fib_unsafe-6-racy.yml",
+    "family": "pthread",
+    "properties": {
+      "no-data-race": {
+        "id": "7634b815c3e0deb3",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread/fib_unsafe-6.yml",
+    "family": "pthread",
+    "properties": {
+      "unreach-call": {
+        "id": "3f22a392fc337b1e",
+        "official_anomaly": "correct-unconfirmed",
+        "cause_code": "semantic_validation_unconfirmed",
+        "completed": true,
+        "status": "false(unreach-call)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread/fib_unsafe-7-racy.yml",
+    "family": "pthread",
+    "properties": {
+      "no-data-race": {
+        "id": "03d607b5b7412567",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread/fib_unsafe-7.yml",
+    "family": "pthread",
+    "properties": {
+      "no-overflow": {
+        "id": "574de35eb390d2b5",
+        "official_anomaly": "",
+        "cause_code": "control",
+        "completed": true,
+        "status": "true"
+      },
+      "unreach-call": {
+        "id": "001ab232d13c7288",
+        "official_anomaly": "correct-unconfirmed",
+        "cause_code": "semantic_validation_unconfirmed",
+        "completed": true,
+        "status": "false(unreach-call)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread/indexer.yml",
+    "family": "pthread",
+    "properties": {
+      "no-data-race": {
+        "id": "832fe8164a765653",
+        "official_anomaly": "OUT OF MEMORY",
+        "cause_code": "memory_limit",
+        "completed": true,
+        "status": "OUT OF MEMORY"
+      }
+    }
+  },
+  {
+    "task": "c/pthread/queue.yml",
+    "family": "pthread",
+    "properties": {
+      "no-data-race": {
+        "id": "0d2c0093401d8a09",
+        "official_anomaly": "TIMEOUT",
+        "cause_code": "cpu_limit",
+        "completed": true,
+        "status": "TIMEOUT"
+      },
+      "no-overflow": {
+        "id": "0f47ed00382d77fb",
+        "official_anomaly": "TIMEOUT",
+        "cause_code": "cpu_limit",
+        "completed": true,
+        "status": "TIMEOUT"
+      },
+      "unreach-call": {
+        "id": "312da55abaaa904d",
+        "official_anomaly": "correct-unconfirmed",
+        "cause_code": "semantic_validation_unconfirmed",
+        "completed": true,
+        "status": "false(unreach-call)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread/queue_longer.yml",
+    "family": "pthread",
+    "properties": {
+      "no-data-race": {
+        "id": "45c7074d934a9333",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "no-overflow": {
+        "id": "ca1e8be0f7578adf",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "unreach-call": {
+        "id": "c8d0b4ef9a736f9d",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "valid-memsafety": {
+        "id": "bda4e1dfa8acfbff",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      }
+    }
+  },
+  {
+    "task": "c/pthread/queue_longest.yml",
+    "family": "pthread",
+    "properties": {
+      "no-data-race": {
+        "id": "d9167c1e6bd9c990",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "no-overflow": {
+        "id": "249f8ba02c7bad0b",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "unreach-call": {
+        "id": "e64d0d1b067b3150",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "valid-memsafety": {
+        "id": "5841df684719bb1a",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      }
+    }
+  },
+  {
+    "task": "c/pthread/queue_ok_longer.yml",
+    "family": "pthread",
+    "properties": {
+      "no-data-race": {
+        "id": "24dfd02b2bc42b5e",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "no-overflow": {
+        "id": "316b051fece32fa8",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "unreach-call": {
+        "id": "6b3abf673ba5cecc",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "valid-memsafety": {
+        "id": "5ead2edc8b5e01f4",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      }
+    }
+  },
+  {
+    "task": "c/pthread/queue_ok_longest.yml",
+    "family": "pthread",
+    "properties": {
+      "no-data-race": {
+        "id": "5d0d10ba6a4d0595",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "no-overflow": {
+        "id": "149deca9bebf7cd6",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "unreach-call": {
+        "id": "3f901abf7e4622b6",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "valid-memsafety": {
+        "id": "771167d1aa524989",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      }
+    }
+  },
+  {
+    "task": "c/pthread/reorder_2-race.yml",
+    "family": "pthread",
+    "properties": {
+      "no-data-race": {
+        "id": "3c84557f42f10a81",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread/reorder_2.yml",
+    "family": "pthread",
+    "properties": {
+      "unreach-call": {
+        "id": "9e7517e645304170",
+        "official_anomaly": "correct-unconfirmed",
+        "cause_code": "semantic_validation_unconfirmed",
+        "completed": true,
+        "status": "false(unreach-call)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread/reorder_5-race.yml",
+    "family": "pthread",
+    "properties": {
+      "no-data-race": {
+        "id": "1ff229cd0599be85",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread/reorder_5.yml",
+    "family": "pthread",
+    "properties": {
+      "unreach-call": {
+        "id": "d342a8e121c4693c",
+        "official_anomaly": "correct-unconfirmed",
+        "cause_code": "semantic_validation_unconfirmed",
+        "completed": true,
+        "status": "false(unreach-call)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread/sigma.yml",
+    "family": "pthread",
+    "properties": {
+      "no-data-race": {
+        "id": "c7d7dfa9adbe6163",
+        "official_anomaly": "TIMEOUT",
+        "cause_code": "cpu_limit",
+        "completed": true,
+        "status": "TIMEOUT"
+      }
+    }
+  },
+  {
+    "task": "c/pthread/singleton-b.yml",
+    "family": "pthread",
+    "properties": {
+      "no-data-race": {
+        "id": "3900800a9ad97a4b",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread/singleton_with-uninit-problems-b.yml",
+    "family": "pthread",
+    "properties": {
+      "no-data-race": {
+        "id": "46ec5d3db5e091ce",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread/stack_longer-1.yml",
+    "family": "pthread",
+    "properties": {
+      "no-data-race": {
+        "id": "9a832e25b473e804",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "no-overflow": {
+        "id": "fc8ea0b85a79a8fe",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "unreach-call": {
+        "id": "eda85b93b337058a",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "valid-memsafety": {
+        "id": "33df4055cb81f1b6",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      }
+    }
+  },
+  {
+    "task": "c/pthread/stack_longer-2.yml",
+    "family": "pthread",
+    "properties": {
+      "no-data-race": {
+        "id": "888a9e83ac36655e",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "no-overflow": {
+        "id": "d673514b145c11a5",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "unreach-call": {
+        "id": "b3a2664a92e9e398",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "valid-memsafety": {
+        "id": "fad2ed4b0f2946ad",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      }
+    }
+  },
+  {
+    "task": "c/pthread/stack_longest-1.yml",
+    "family": "pthread",
+    "properties": {
+      "no-data-race": {
+        "id": "129a46e11c441275",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "no-overflow": {
+        "id": "e696a6dd1b102cc2",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "unreach-call": {
+        "id": "b575bfbab31bf0fa",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "valid-memsafety": {
+        "id": "0fde609e42fa0301",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      }
+    }
+  },
+  {
+    "task": "c/pthread/stack_longest-2.yml",
+    "family": "pthread",
+    "properties": {
+      "no-data-race": {
+        "id": "9410a37c247771ad",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "no-overflow": {
+        "id": "d34cbdc569ad9e9e",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "unreach-call": {
+        "id": "fc85a0c6bf3dafe4",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "valid-memsafety": {
+        "id": "03d80c51443d4d78",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      }
+    }
+  },
+  {
+    "task": "c/pthread/triangular-longest-1.yml",
+    "family": "pthread",
+    "properties": {
+      "unreach-call": {
+        "id": "f735a6e34ca266cd",
+        "official_anomaly": "TIMEOUT",
+        "cause_code": "cpu_limit",
+        "completed": true,
+        "status": "TIMEOUT"
+      }
+    }
+  },
+  {
+    "task": "c/pthread/triangular-longest-2.yml",
+    "family": "pthread",
+    "properties": {
+      "unreach-call": {
+        "id": "06959d3a779b4e3c",
+        "official_anomaly": "TIMEOUT",
+        "cause_code": "cpu_limit",
+        "completed": true,
+        "status": "TIMEOUT"
+      }
+    }
+  },
+  {
+    "task": "c/pthread/twostage_3-race.yml",
+    "family": "pthread",
+    "properties": {
+      "no-data-race": {
+        "id": "317a38a6cf41e26c",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/pthread/twostage_3.yml",
+    "family": "pthread",
+    "properties": {
+      "unreach-call": {
+        "id": "6f1c350ea1004ea2",
+        "official_anomaly": "correct-unconfirmed",
+        "cause_code": "semantic_validation_unconfirmed",
+        "completed": true,
+        "status": "false(unreach-call)"
+      }
+    }
+  },
+  {
+    "task": "c/weaver/loop-tiling-eq.wvr.yml",
+    "family": "weaver",
+    "properties": {
+      "no-data-race": {
+        "id": "ebcad5d7f768316c",
+        "official_anomaly": "UNKNOWN",
+        "cause_code": "ssa_rename_type_invariant",
+        "completed": true,
+        "status": "unknown"
+      },
+      "no-overflow": {
+        "id": "43b0dd6f3143848e",
+        "official_anomaly": "UNKNOWN",
+        "cause_code": "ssa_rename_type_invariant",
+        "completed": true,
+        "status": "unknown"
+      },
+      "unreach-call": {
+        "id": "26a31fa0b46ecda6",
+        "official_anomaly": "UNKNOWN",
+        "cause_code": "ssa_rename_type_invariant",
+        "completed": true,
+        "status": "unknown"
+      },
+      "valid-memsafety": {
+        "id": "433b7761a18aa625",
+        "official_anomaly": "UNKNOWN",
+        "cause_code": "ssa_rename_type_invariant",
+        "completed": true,
+        "status": "unknown"
+      }
+    }
+  },
+  {
+    "task": "c/weaver/parallel-ticket-8.wvr.yml",
+    "family": "weaver",
+    "properties": {
+      "unreach-call": {
+        "id": "e091c31aa1a23f59",
+        "official_anomaly": "TIMEOUT",
+        "cause_code": "cpu_limit",
+        "completed": true,
+        "status": "TIMEOUT"
+      }
+    }
+  },
+  {
+    "task": "c/weaver/popl20-bad-buffer-mult-alt3.wvr.yml",
+    "family": "weaver",
+    "properties": {
+      "unreach-call": {
+        "id": "90289d457b9dda78",
+        "official_anomaly": "correct-unconfirmed",
+        "cause_code": "semantic_validation_unconfirmed",
+        "completed": true,
+        "status": "false(unreach-call)"
+      }
+    }
+  },
+  {
+    "task": "c/weaver/popl20-more-array-sum.wvr.yml",
+    "family": "weaver",
+    "properties": {
+      "unreach-call": {
+        "id": "6388f8d5cda2c894",
+        "official_anomaly": "correct-unconfirmed",
+        "cause_code": "semantic_validation_unconfirmed",
+        "completed": true,
+        "status": "false(unreach-call)"
+      }
+    }
+  },
+  {
+    "task": "c/weaver/popl20-more-buffer-mult3.wvr.yml",
+    "family": "weaver",
+    "properties": {
+      "unreach-call": {
+        "id": "f34756fc9b9408e6",
+        "official_anomaly": "correct-unconfirmed",
+        "cause_code": "semantic_validation_unconfirmed",
+        "completed": true,
+        "status": "false(unreach-call)"
+      }
+    }
+  },
+  {
+    "task": "c/weaver/popl20-more-buffer-series3.wvr.yml",
+    "family": "weaver",
+    "properties": {
+      "unreach-call": {
+        "id": "0a79f73ad3f717f3",
+        "official_anomaly": "correct-unconfirmed",
+        "cause_code": "semantic_validation_unconfirmed",
+        "completed": true,
+        "status": "false(unreach-call)"
+      }
+    }
+  },
+  {
+    "task": "c/weaver/popl20-more-parray-copy.wvr.yml",
+    "family": "weaver",
+    "properties": {
+      "no-data-race": {
+        "id": "fcea1c24dc777876",
+        "official_anomaly": "witness missing",
+        "cause_code": "datarace_witness_deliberately_omitted",
+        "completed": true,
+        "status": "false(no-data-race)"
+      }
+    }
+  },
+  {
+    "task": "c/weaver/popl20-mult-4.wvr.yml",
+    "family": "weaver",
+    "properties": {
+      "unreach-call": {
+        "id": "34fea70de08d065f",
+        "official_anomaly": "TIMEOUT",
+        "cause_code": "cpu_limit",
+        "completed": true,
+        "status": "TIMEOUT"
+      },
+      "valid-memsafety": {
+        "id": "d91db0d0b5b8846e",
+        "official_anomaly": "TIMEOUT",
+        "cause_code": "cpu_limit",
+        "completed": true,
+        "status": "TIMEOUT"
+      }
+    }
+  },
+  {
+    "task": "c/weaver/popl20-prod-cons-eq.wvr-oob.yml",
+    "family": "weaver",
+    "properties": {
+      "valid-memsafety": {
+        "id": "f97bda9b4fa55480",
+        "official_anomaly": "correct-unconfirmed",
+        "cause_code": "semantic_validation_unconfirmed",
+        "completed": true,
+        "status": "false(valid-deref)"
+      }
+    }
+  },
+  {
+    "task": "c/weaver/test-easy1.wvr.yml",
+    "family": "weaver",
+    "properties": {
+      "no-data-race": {
+        "id": "4242fb5cd5c47d35",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "no-overflow": {
+        "id": "680ecc32d85ae852",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "unreach-call": {
+        "id": "2b6d9a94237b6fef",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      },
+      "valid-memsafety": {
+        "id": "abae929b962ad903",
+        "official_anomaly": "ERROR",
+        "cause_code": "bound_gt_300_adapter_error",
+        "completed": true,
+        "status": "ERROR"
+      }
+    }
+  },
+  {
+    "task": "c/weaver/test-hard1.wvr.yml",
+    "family": "weaver",
+    "properties": {
+      "unreach-call": {
+        "id": "3c7fd0d6fb95f33b",
+        "official_anomaly": "TIMEOUT",
+        "cause_code": "cpu_limit",
+        "completed": true,
+        "status": "TIMEOUT"
+      }
+    }
+  }
+]

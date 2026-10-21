@@ -1,0 +1,178 @@
+[
+  {
+    "id": "15fbf61018a5dd49",
+    "diagnostic": "diagnostics/15fbf61018a5dd49-datatype-symbols",
+    "widths_bits": {
+      "int": 32,
+      "long_int": 32,
+      "pointer": 32
+    },
+    "expected_model": "ILP32",
+    "matches_expected_model": true,
+    "evidence": [
+      {
+        "file": "diagnostics/15fbf61018a5dd49-datatype-symbols/stdout.log",
+        "line": 128,
+        "text": "Symbol......: __CPROVER_architecture_int_width"
+      },
+      {
+        "file": "diagnostics/15fbf61018a5dd49-datatype-symbols/stdout.log",
+        "line": 134,
+        "text": "Value.......: (integer)32"
+      },
+      {
+        "file": "diagnostics/15fbf61018a5dd49-datatype-symbols/stdout.log",
+        "line": 148,
+        "text": "Symbol......: __CPROVER_architecture_long_int_width"
+      },
+      {
+        "file": "diagnostics/15fbf61018a5dd49-datatype-symbols/stdout.log",
+        "line": 154,
+        "text": "Value.......: (integer)32"
+      },
+      {
+        "file": "diagnostics/15fbf61018a5dd49-datatype-symbols/stdout.log",
+        "line": 188,
+        "text": "Symbol......: __CPROVER_architecture_pointer_width"
+      },
+      {
+        "file": "diagnostics/15fbf61018a5dd49-datatype-symbols/stdout.log",
+        "line": 194,
+        "text": "Value.......: (integer)32"
+      }
+    ],
+    "interpretation": "在原始最终命令上仅追加 --show-symbol-table 的隔离诊断显示 int、long、pointer 均为 32 位，符合 ILP32；没有额外强制 --32，也没有修改程序／属性。不能从 64-bit 工具横幅推断 C 数据模型为 LP64。"
+  },
+  {
+    "id": "3166c6eacc7f22c8",
+    "diagnostic": "diagnostics/3166c6eacc7f22c8-datatype-symbols",
+    "widths_bits": {
+      "int": 32,
+      "long_int": 32,
+      "pointer": 32
+    },
+    "expected_model": "ILP32",
+    "matches_expected_model": true,
+    "evidence": [
+      {
+        "file": "diagnostics/3166c6eacc7f22c8-datatype-symbols/stdout.log",
+        "line": 128,
+        "text": "Symbol......: __CPROVER_architecture_int_width"
+      },
+      {
+        "file": "diagnostics/3166c6eacc7f22c8-datatype-symbols/stdout.log",
+        "line": 134,
+        "text": "Value.......: (integer)32"
+      },
+      {
+        "file": "diagnostics/3166c6eacc7f22c8-datatype-symbols/stdout.log",
+        "line": 148,
+        "text": "Symbol......: __CPROVER_architecture_long_int_width"
+      },
+      {
+        "file": "diagnostics/3166c6eacc7f22c8-datatype-symbols/stdout.log",
+        "line": 154,
+        "text": "Value.......: (integer)32"
+      },
+      {
+        "file": "diagnostics/3166c6eacc7f22c8-datatype-symbols/stdout.log",
+        "line": 188,
+        "text": "Symbol......: __CPROVER_architecture_pointer_width"
+      },
+      {
+        "file": "diagnostics/3166c6eacc7f22c8-datatype-symbols/stdout.log",
+        "line": 194,
+        "text": "Value.......: (integer)32"
+      }
+    ],
+    "interpretation": "在原始最终命令上仅追加 --show-symbol-table 的隔离诊断显示 int、long、pointer 均为 32 位，符合 ILP32；没有额外强制 --32，也没有修改程序／属性。不能从 64-bit 工具横幅推断 C 数据模型为 LP64。"
+  },
+  {
+    "id": "4a1c3d1fa852554c",
+    "diagnostic": "diagnostics/4a1c3d1fa852554c-datatype-symbols",
+    "widths_bits": {
+      "int": 32,
+      "long_int": 32,
+      "pointer": 32
+    },
+    "expected_model": "ILP32",
+    "matches_expected_model": true,
+    "evidence": [
+      {
+        "file": "diagnostics/4a1c3d1fa852554c-datatype-symbols/stdout.log",
+        "line": 844,
+        "text": "Symbol......: __CPROVER_architecture_int_width"
+      },
+      {
+        "file": "diagnostics/4a1c3d1fa852554c-datatype-symbols/stdout.log",
+        "line": 850,
+        "text": "Value.......: (integer)32"
+      },
+      {
+        "file": "diagnostics/4a1c3d1fa852554c-datatype-symbols/stdout.log",
+        "line": 864,
+        "text": "Symbol......: __CPROVER_architecture_long_int_width"
+      },
+      {
+        "file": "diagnostics/4a1c3d1fa852554c-datatype-symbols/stdout.log",
+        "line": 870,
+        "text": "Value.......: (integer)32"
+      },
+      {
+        "file": "diagnostics/4a1c3d1fa852554c-datatype-symbols/stdout.log",
+        "line": 904,
+        "text": "Symbol......: __CPROVER_architecture_pointer_width"
+      },
+      {
+        "file": "diagnostics/4a1c3d1fa852554c-datatype-symbols/stdout.log",
+        "line": 910,
+        "text": "Value.......: (integer)32"
+      }
+    ],
+    "interpretation": "在原始最终命令上仅追加 --show-symbol-table 的隔离诊断显示 int、long、pointer 均为 32 位，符合 ILP32；没有额外强制 --32，也没有修改程序／属性。不能从 64-bit 工具横幅推断 C 数据模型为 LP64。"
+  },
+  {
+    "id": "643ec04b71829a38",
+    "diagnostic": "diagnostics/643ec04b71829a38-datatype-symbols",
+    "widths_bits": {
+      "int": 32,
+      "long_int": 32,
+      "pointer": 32
+    },
+    "expected_model": "ILP32",
+    "matches_expected_model": true,
+    "evidence": [
+      {
+        "file": "diagnostics/643ec04b71829a38-datatype-symbols/stdout.log",
+        "line": 125,
+        "text": "Symbol......: __CPROVER_architecture_int_width"
+      },
+      {
+        "file": "diagnostics/643ec04b71829a38-datatype-symbols/stdout.log",
+        "line": 131,
+        "text": "Value.......: (integer)32"
+      },
+      {
+        "file": "diagnostics/643ec04b71829a38-datatype-symbols/stdout.log",
+        "line": 145,
+        "text": "Symbol......: __CPROVER_architecture_long_int_width"
+      },
+      {
+        "file": "diagnostics/643ec04b71829a38-datatype-symbols/stdout.log",
+        "line": 151,
+        "text": "Value.......: (integer)32"
+      },
+      {
+        "file": "diagnostics/643ec04b71829a38-datatype-symbols/stdout.log",
+        "line": 185,
+        "text": "Symbol......: __CPROVER_architecture_pointer_width"
+      },
+      {
+        "file": "diagnostics/643ec04b71829a38-datatype-symbols/stdout.log",
+        "line": 191,
+        "text": "Value.......: (integer)32"
+      }
+    ],
+    "interpretation": "在原始最终命令上仅追加 --show-symbol-table 的隔离诊断显示 int、long、pointer 均为 32 位，符合 ILP32；没有额外强制 --32，也没有修改程序／属性。不能从 64-bit 工具横幅推断 C 数据模型为 LP64。"
+  }
+]

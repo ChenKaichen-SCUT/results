@@ -1,0 +1,30 @@
+{
+  "generated_utc": "2026-10-21T16:50:16Z",
+  "planned": 667,
+  "completed": 667,
+  "anomalies_planned": 611,
+  "anomalies_completed": 611,
+  "same_status": 667,
+  "reason_groups": {
+    "witness 生成或验证问题": 214,
+    "计算资源不足": 60,
+    "固定启发式导致提前放弃": 250,
+    "当前验证算法能力限制": 80,
+    "实现错误或环境问题": 5,
+    "尚未确定原因": 2
+  },
+  "cause_codes": {
+    "datarace_witness_deliberately_omitted": 193,
+    "memory_limit": 25,
+    "cpu_limit": 35,
+    "bound_gt_300_adapter_error": 248,
+    "unsupported_inline_asm": 76,
+    "unsupported_tls_destructor": 4,
+    "ssa_rename_type_invariant": 4,
+    "semantic_validation_unconfirmed": 19,
+    "wrong_verdict_root_unconfirmed": 2,
+    "false_true_from_incomplete_unwinding": 2,
+    "value_set_assign_type_invariant": 1,
+    "empty_graphml_source_location": 2
+  }
+}

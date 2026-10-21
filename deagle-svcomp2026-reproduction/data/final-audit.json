@@ -1,0 +1,19 @@
+{
+  "generated_utc": "2026-10-21T16:51:29Z",
+  "planned": 667,
+  "completed": 667,
+  "anomaly_counts": {
+    "witness missing": 193,
+    "OUT OF MEMORY": 25,
+    "TIMEOUT": 35,
+    "ERROR": 248,
+    "UNKNOWN": 85,
+    "correct-unconfirmed": 19,
+    "wrong": 4,
+    "witness invalid": 2
+  },
+  "failures": [],
+  "different_statuses": [],
+  "runtime_input_hash_checks": 2001,
+  "all_runtime_inputs_match": true
+}

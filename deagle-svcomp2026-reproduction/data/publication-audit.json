@@ -1,0 +1,17 @@
+{
+  "completed": 667,
+  "anomalies": 611,
+  "controls": 56,
+  "same_raw_status": 667,
+  "remaining": 0,
+  "html_details": 611,
+  "embedded_images": 3,
+  "tables": {
+    "全部实际运行667": 667,
+    "异常任务611": 611,
+    "正常对照56": 56,
+    "官方全部实例3177": 3177,
+    "原因与家族耗时分布": 44
+  },
+  "script_commit": "2eb0611dc703116e02c14e66741cf548f3d1f204"
+}

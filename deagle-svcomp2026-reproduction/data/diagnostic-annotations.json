@@ -1,0 +1,22 @@
+[
+  {
+    "log": "evidence/resource-stacks.log",
+    "clarification": "The first resource-stack helper required --unwindset and failed to select the loop-free elimination_backoff_stack command. No second diagnostic binary was started in that attempt. The selector was corrected to use the last non-suggestion invocation from baseline observations; the unchanged binary argv was then run. This was an analysis-helper correction, not a Deagle or baseline modification."
+  },
+  {
+    "command_file": "diagnostics/afb4ad0607f691f7-solver-stack60/command.json",
+    "clarification": "This diagnostic extended the launcher first unbounded attempt from 5 to 60 wall seconds under gdb. It is not the final bounded invocation and cannot be used as a baseline solver-stage sample. See bounded-final-stack60 for that separate diagnostic."
+  },
+  {
+    "command_file": "diagnostics/3f0a3910c4fa6eaa-solver-stack60/command.json",
+    "clarification": "This diagnostic extended the launcher first unbounded attempt from 5 to 60 wall seconds under gdb. It is not the final bounded invocation and cannot be used as a baseline solver-stage sample. See bounded-final-stack60 for that separate diagnostic."
+  },
+  {
+    "command_file": "diagnostics/3bbcf5f598f873f4-solver-stack60/command.json",
+    "clarification": "This diagnostic extended the launcher first unbounded attempt from 5 to 60 wall seconds under gdb. It is not the final bounded invocation and cannot be used as a baseline solver-stage sample. See bounded-final-stack60 for that separate diagnostic."
+  },
+  {
+    "command_file": "diagnostics/643ec04b71829a38-goto-model/command.json",
+    "clarification": "The initial change description mentions allocation settings, but this output did not establish their initialized values. No conclusion about malloc failure semantics is based on it."
+  }
+]
